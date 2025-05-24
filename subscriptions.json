@@ -1,0 +1,366 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-05-23T10:00:00Z",
+  "subscriptions": [
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5e/99/86/5e998694-8e4b-f0d7-8d8a-5ce5e7a3b8e7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 78,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "基础版"
+        },
+        {
+          "price": 98,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "标准版"
+        },
+        {
+          "price": 118,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "高级版"
+        },
+        {
+          "price": 15.49,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "标准版"
+        }
+      ],
+      "website": "https://www.netflix.com",
+      "description": "全球领先的流媒体服务",
+      "tags": ["视频", "电影", "电视剧", "流媒体", "原创内容"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "363590051"
+    },
+    {
+      "id": "apple-music",
+      "name": "Apple Music",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/f6/6a/8ef66a6d-1bb3-2a0a-82b0-8e4a0aab85c5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 10,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版"
+        },
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "家庭版"
+        },
+        {
+          "price": 5,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "学生版"
+        },
+        {
+          "price": 9.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版"
+        }
+      ],
+      "website": "https://music.apple.com",
+      "description": "Apple 官方音乐流媒体服务",
+      "tags": ["音乐", "流媒体", "Apple", "高品质", "无损音频"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1108187390"
+    },
+    {
+      "id": "iqiyi",
+      "name": "爱奇艺",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/08/0f/74080f52-1234-5678-9abc-def123456789/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 19,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP会员"
+        },
+        {
+          "price": 198,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "VIP年费"
+        },
+        {
+          "price": 30,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "星钻VIP"
+        }
+      ],
+      "website": "https://www.iqiyi.com",
+      "description": "中国领先的在线视频平台",
+      "tags": ["视频", "电影", "电视剧", "综艺", "动漫"],
+      "region": ["CN"],
+      "appStoreId": "393765873"
+    },
+    {
+      "id": "adobe-cc",
+      "name": "Adobe Creative Cloud",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/34/56/12345678-1234-5678-9abc-def123456789/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 888,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "完整版"
+        },
+        {
+          "price": 6888,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费版"
+        },
+        {
+          "price": 20.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "摄影版"
+        }
+      ],
+      "website": "https://www.adobe.com",
+      "description": "专业创意设计软件套装",
+      "tags": ["设计", "创意", "PS", "AI", "Pr", "专业工具"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": null
+    },
+    {
+      "id": "microsoft-365",
+      "name": "Microsoft 365",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/cd/ef/abcdef12-3456-7890-abcd-ef1234567890/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 749,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "个人版"
+        },
+        {
+          "price": 1098,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "家庭版"
+        },
+        {
+          "price": 6.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版"
+        }
+      ],
+      "website": "https://www.microsoft.com/zh-cn/microsoft-365",
+      "description": "微软办公软件套装",
+      "tags": ["办公", "Word", "Excel", "PPT", "云存储", "协作"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1450038993"
+    },
+    {
+      "id": "icloud-plus",
+      "name": "iCloud+",
+      "icon": "settings",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 6,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "50GB"
+        },
+        {
+          "price": 21,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "200GB"
+        },
+        {
+          "price": 68,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "2TB"
+        },
+        {
+          "price": 0.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "50GB"
+        }
+      ],
+      "website": "https://www.icloud.com",
+      "description": "Apple 官方云存储服务",
+      "tags": ["云存储", "备份", "Apple", "同步", "隐私保护"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": null
+    },
+    {
+      "id": "apple-arcade",
+      "name": "Apple Arcade",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/dc/ba/fedcba98-7654-3210-fedc-ba9876543210/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "gaming",
+      "commonPrices": [
+        {
+          "price": 30,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版"
+        },
+        {
+          "price": 4.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版"
+        }
+      ],
+      "website": "https://www.apple.com/apple-arcade/",
+      "description": "Apple 游戏订阅服务",
+      "tags": ["游戏", "Apple", "无广告", "家庭共享"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": null
+    },
+    {
+      "id": "dedao",
+      "name": "得到",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/bb/cc/aabbccdd-1234-5678-9abc-def123456789/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "news",
+      "commonPrices": [
+        {
+          "price": 365,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度会员"
+        }
+      ],
+      "website": "https://www.dedao.cn",
+      "description": "知识服务APP",
+      "tags": ["知识", "学习", "课程", "音频", "专栏"],
+      "region": ["CN"],
+      "appStoreId": "1051199503"
+    },
+    {
+      "id": "keep",
+      "name": "Keep",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/22/33/11223344-5566-7788-99aa-bbccddeeff00/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 19,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "会员版"
+        },
+        {
+          "price": 228,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度会员"
+        }
+      ],
+      "website": "https://www.gotokeep.com",
+      "description": "运动健身APP",
+      "tags": ["健身", "运动", "课程", "社区", "跑步"],
+      "region": ["CN"],
+      "appStoreId": "934637741"
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/spotify-icon.png/200x200bb.jpg",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 9.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Premium"
+        },
+        {
+          "price": 14.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Family"
+        },
+        {
+          "price": 4.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Student"
+        }
+      ],
+      "website": "https://www.spotify.com",
+      "description": "全球音乐流媒体平台",
+      "tags": ["音乐", "播客", "流媒体", "发现", "社交"],
+      "region": ["US", "Global"],
+      "appStoreId": "324684580"
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/notion-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 8,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Personal Pro"
+        },
+        {
+          "price": 80,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Personal Pro年费"
+        }
+      ],
+      "website": "https://www.notion.so",
+      "description": "全能工作空间应用",
+      "tags": ["笔记", "协作", "数据库", "模板", "团队"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1232780281"
+    }
+  ]
+} 
