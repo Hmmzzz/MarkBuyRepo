@@ -1,12 +1,166 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2025-05-23T10:00:00Z",
+  "version": "1.1",
+  "lastUpdated": "2024-01-20T10:00:00Z",
   "subscriptions": [
+    {
+      "id": "netflix-bundle",
+      "name": "Netflix 超值套餐",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5e/99/86/5e998694-8e4b-f0d7-8d8a-5ce5e7a3b8e7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "video",
+      "isBundle": true,
+      "commonPrices": [
+        {
+          "price": 128,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐优惠价"
+        }
+      ],
+      "bundledSubscriptions": [
+        {
+          "name": "Apple Music",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/f6/6a/8ef66a6d-1bb3-2a0a-82b0-8e4a0aab85c5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+          "category": "music",
+          "price": 0,
+          "originalPrice": 10,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版（赠送）",
+          "website": "https://music.apple.com",
+          "tags": ["音乐", "流媒体", "Apple", "高品质"],
+          "appStoreId": "1108187390"
+        },
+        {
+          "name": "iCloud+ 50GB",
+          "icon": "https://example.com/icloud-icon.png",
+          "category": "utility",
+          "price": 0,
+          "originalPrice": 6,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "50GB存储（赠送）",
+          "website": "https://www.icloud.com",
+          "tags": ["云存储", "备份", "Apple"],
+          "appStoreId": null
+        }
+      ],
+      "website": "https://www.netflix.com",
+      "description": "Netflix 高级版 + Apple Music 个人版 + iCloud+ 50GB 超值套餐，一次订阅享受视频、音乐、云存储三重服务",
+      "tags": ["视频", "音乐", "云存储", "套餐", "超值", "多服务"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "363590051"
+    },
+    {
+      "id": "adobe-creative-bundle",
+      "name": "Adobe 创意套餐",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/34/56/12345678-1234-5678-9abc-def123456789/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "productivity",
+      "isBundle": true,
+      "commonPrices": [
+        {
+          "price": 998,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "创意全家桶"
+        }
+      ],
+      "bundledSubscriptions": [
+        {
+          "name": "Adobe Stock",
+          "icon": "https://example.com/stock-icon.png",
+          "category": "productivity",
+          "price": 0,
+          "originalPrice": 199,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "10张图片/月（赠送）",
+          "website": "https://stock.adobe.com",
+          "tags": ["素材", "图片", "设计", "Adobe"],
+          "appStoreId": null
+        },
+        {
+          "name": "Adobe Fonts",
+          "icon": "https://example.com/fonts-icon.png",
+          "category": "productivity",
+          "price": 0,
+          "originalPrice": 149,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "无限字体（赠送）",
+          "website": "https://fonts.adobe.com",
+          "tags": ["字体", "设计", "创意", "Adobe"],
+          "appStoreId": null
+        }
+      ],
+      "website": "https://www.adobe.com",
+      "description": "Adobe Creative Cloud 完整版 + Adobe Stock + Adobe Fonts，为创意工作者提供一站式解决方案",
+      "tags": ["设计", "创意", "PS", "AI", "Pr", "专业工具", "套餐"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": null
+    },
+    {
+      "id": "microsoft-365-family-bundle",
+      "name": "Microsoft 365 家庭套餐",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/cd/ef/abcdef12-3456-7890-abcd-ef1234567890/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "category": "productivity",
+      "isBundle": true,
+      "commonPrices": [
+        {
+          "price": 1198,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "家庭版年费"
+        }
+      ],
+      "bundledSubscriptions": [
+        {
+          "name": "OneDrive 1TB",
+          "icon": "https://example.com/onedrive-icon.png",
+          "category": "utility",
+          "price": 0,
+          "originalPrice": 252,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "每人1TB存储（赠送）",
+          "website": "https://onedrive.live.com",
+          "tags": ["云存储", "备份", "Microsoft", "协作"],
+          "appStoreId": "477537958"
+        },
+        {
+          "name": "Skype 包月通话",
+          "icon": "https://example.com/skype-icon.png",
+          "category": "lifestyle",
+          "price": 0,
+          "originalPrice": 120,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "每月60分钟（赠送）",
+          "website": "https://www.skype.com",
+          "tags": ["通话", "视频", "沟通", "Microsoft"],
+          "appStoreId": "304878510"
+        }
+      ],
+      "website": "https://www.microsoft.com/zh-cn/microsoft-365",
+      "description": "Microsoft 365 家庭版 + OneDrive 1TB + Skype 包月通话，为家庭用户提供完整的办公和沟通解决方案",
+      "tags": ["办公", "家庭", "云存储", "通话", "套餐", "Microsoft"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1450038993"
+    },
     {
       "id": "netflix",
       "name": "Netflix",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5e/99/86/5e998694-8e4b-f0d7-8d8a-5ce5e7a3b8e7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "video",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 78,
@@ -46,8 +200,9 @@
     {
       "id": "apple-music",
       "name": "Apple Music",
-      "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-music-icon.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/f6/6a/8ef66a6d-1bb3-2a0a-82b0-8e4a0aab85c5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "music",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 10,
@@ -87,8 +242,9 @@
     {
       "id": "iqiyi",
       "name": "爱奇艺",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/08/0f/74080f52-1234-5678-9abc-def123456789/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
+      "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-music-icon.png",
       "category": "video",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 19,
@@ -123,6 +279,7 @@
       "name": "Adobe Creative Cloud",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/34/56/12345678-1234-5678-9abc-def123456789/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "productivity",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 888,
@@ -157,6 +314,7 @@
       "name": "Microsoft 365",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/cd/ef/abcdef12-3456-7890-abcd-ef1234567890/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "productivity",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 749,
@@ -189,8 +347,9 @@
     {
       "id": "icloud-plus",
       "name": "iCloud+",
-      "icon": "settings",
+      "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-music-icon.png",
       "category": "utility",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 6,
@@ -232,6 +391,7 @@
       "name": "Apple Arcade",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/dc/ba/fedcba98-7654-3210-fedc-ba9876543210/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "gaming",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 30,
@@ -259,6 +419,7 @@
       "name": "得到",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/bb/cc/aabbccdd-1234-5678-9abc-def123456789/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "news",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 365,
@@ -279,6 +440,7 @@
       "name": "Keep",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/22/33/11223344-5566-7788-99aa-bbccddeeff00/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "lifestyle",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 19,
@@ -306,6 +468,7 @@
       "name": "Spotify",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/spotify-icon.png/200x200bb.jpg",
       "category": "music",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 9.99,
@@ -340,6 +503,7 @@
       "name": "Notion",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/notion-icon.png/200x200bb.jpg",
       "category": "productivity",
+      "isBundle": false,
       "commonPrices": [
         {
           "price": 8,
