@@ -3,6 +3,1323 @@
   "lastUpdated": "2025-05-25T10:00:00Z",
   "subscriptions": [
     {
+      "id": "youtube-premium",
+      "name": "YouTube Premium",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/youtube-icon.png/200x200bb.jpg",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 11.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版"
+        },
+        {
+          "price": 17.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "家庭版"
+        },
+        {
+          "price": 6.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "学生版"
+        }
+      ],
+      "website": "https://www.youtube.com/premium",
+      "description": "YouTube 无广告高级会员服务",
+      "tags": ["视频", "无广告", "YouTube Music", "离线下载", "后台播放"],
+      "region": ["US", "Global"],
+      "appStoreId": "544007664"
+    },
+    {
+      "id": "disney-plus",
+      "name": "Disney+",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/disney-icon.png/200x200bb.jpg",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 7.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "标准版"
+        },
+        {
+          "price": 79.99,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费版"
+        }
+      ],
+      "website": "https://www.disneyplus.com",
+      "description": "迪士尼官方流媒体平台",
+      "tags": ["视频", "迪士尼", "漫威", "星战", "皮克斯", "国家地理"],
+      "region": ["US", "Global"],
+      "appStoreId": "1446075923"
+    },
+    
+   
+    {
+      "id": "adobe-photoshop",
+      "name": "Adobe Photoshop",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/photoshop-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 20.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "单应用版"
+        },
+        {
+          "price": 239.88,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费版"
+        },
+        {
+          "price": 148,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "中国版"
+        }
+      ],
+      "website": "https://www.adobe.com/products/photoshop.html",
+      "description": "专业图像编辑软件",
+      "tags": ["设计", "修图", "创意", "专业工具", "Adobe"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1449100072"
+    },
+    {
+      "id": "canva-pro",
+      "name": "Canva Pro",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/canva-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 12.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "专业版"
+        },
+        {
+          "price": 119.99,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费版"
+        }
+      ],
+      "website": "https://www.canva.com/pro/",
+      "description": "在线设计平台专业版",
+      "tags": ["设计", "模板", "创意", "简单易用", "协作"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "897446215"
+    },
+   
+    {
+      "id": "google-workspace",
+      "name": "Google Workspace",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/google-workspace-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 6,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Business Starter"
+        },
+        {
+          "price": 12,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Business Standard"
+        }
+      ],
+      "website": "https://workspace.google.com",
+      "description": "Google 企业协作套件",
+      "tags": ["办公", "协作", "邮箱", "云存储", "Google"],
+      "region": ["CN", "US", "Global"]
+    },
+    {
+      "id": "dropbox",
+      "name": "Dropbox",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dropbox-icon.png/200x200bb.jpg",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 9.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Plus 2TB"
+        },
+        {
+          "price": 16.58,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Family 2TB"
+        }
+      ],
+      "website": "https://www.dropbox.com",
+      "description": "云存储和文件同步服务",
+      "tags": ["云存储", "同步", "备份", "文件共享", "协作"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "327630330"
+    },
+    {
+      "id": "google-one",
+      "name": "Google One",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/google-one-icon.png/200x200bb.jpg",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 1.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "100GB"
+        },
+        {
+          "price": 2.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "200GB"
+        },
+        {
+          "price": 9.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "2TB"
+        }
+      ],
+      "website": "https://one.google.com",
+      "description": "Google 云存储扩容服务",
+      "tags": ["云存储", "Google", "备份", "照片", "扩容"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1470041502"
+    },
+    {
+      "id": "1password",
+      "name": "1Password",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1password-icon.png/200x200bb.jpg",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 2.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版"
+        },
+        {
+          "price": 4.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "家庭版"
+        }
+      ],
+      "website": "https://1password.com",
+      "description": "密码管理器",
+      "tags": ["密码", "安全", "加密", "多平台", "同步"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1511601750"
+    },
+   
+    {
+      "id": "tencent-video",
+      "name": "腾讯视频",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/tencent-video-icon.png/200x200bb.jpg",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 30,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP会员"
+        },
+        {
+          "price": 198,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "VIP年费"
+        },
+        {
+          "price": 50,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "SVIP"
+        },
+        {
+          "price": 308,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "SVIP年费"
+        }
+      ],
+      "website": "https://v.qq.com",
+      "description": "腾讯视频流媒体服务",
+      "tags": ["视频", "电影", "电视剧", "综艺", "动漫", "腾讯"],
+      "region": ["CN"],
+      "appStoreId": "458318329"
+    },
+    {
+      "id": "bilibili",
+      "name": "哔哩哔哩",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bilibili-icon.png/200x200bb.jpg",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 30,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "超级大会员"
+        },
+        {
+          "price": 168,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度大会员"
+        },
+        {
+          "price": 40,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "超大月度套餐"
+        },
+        {
+          "price": 25,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "月度大会员"
+        }
+      ],
+      "website": "https://www.bilibili.com",
+      "description": "年轻人的文化社区",
+      "tags": ["视频", "弹幕", "二次元", "UP主", "社区"],
+      "region": ["CN"],
+      "appStoreId": "736536022"
+    },
+    {
+      "id": "youku",
+      "name": "优酷",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/youku-icon.png/200x200bb.jpg",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 30,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP会员"
+        },
+        {
+          "price": 158,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "VIP年费"
+        },
+        {
+          "price": 50,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "SVIP会员"
+        },
+        {
+          "price": 268,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "SVIP年费"
+        }
+      ],
+      "website": "https://www.youku.com",
+      "description": "阿里巴巴旗下视频平台",
+      "tags": ["视频", "电影", "电视剧", "综艺", "阿里"],
+      "region": ["CN"],
+      "appStoreId": "336141475"
+    },
+    {
+      "id": "chatgpt-plus",
+      "name": "ChatGPT Plus",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/chatgpt-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 20,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Plus"
+        },
+        {
+          "price": 200,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Pro"
+        },
+        {
+          "price": 25,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Team"
+        }
+        
+      ],
+      "website": "https://chat.openai.com",
+      "description": "OpenAI 人工智能聊天助手",
+      "tags": ["AI", "聊天", "写作", "编程", "智能助手"],
+      "region": ["US", "Global"],
+      "appStoreId": "6448311069"
+    },
+    
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/github-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 10,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版"
+        },
+        {
+          "price": 19,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "企业版"
+        }
+      ],
+      "website": "https://github.com/features/copilot",
+      "description": "AI 编程助手",
+      "tags": ["AI", "编程", "代码", "开发", "GitHub"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1477376905"
+    },
+    {
+      "id": "github-pro",
+      "name": "GitHub Pro",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/github-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 4,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人专业版"
+        }
+      ],
+      "website": "https://github.com/pricing",
+      "description": "GitHub 专业版服务",
+      "tags": ["代码", "版本控制", "协作", "开发", "仓库"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1477376905"
+    },
+    {
+      "id": "claude-pro",
+      "name": "Claude Pro",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/claude-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 20,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Pro"
+        },
+        {
+          "price": 100,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Max"
+        },
+        {
+          "price": 25,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Team"
+        }
+        
+      ],
+      "website": "https://claude.ai",
+      "description": "Anthropic AI 助手",
+      "tags": ["AI", "聊天", "写作", "分析", "智能助手"],
+      "region": ["US", "Global"]
+    },
+   
+
+    {
+      "id": "ximalaya",
+      "name": "喜马拉雅",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ximalaya-icon.png/200x200bb.jpg",
+      "category": "entertainment",
+      "commonPrices": [
+        {
+          "price": 18,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP会员"
+        },
+        {
+          "price": 188,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "VIP年费"
+        }
+      ],
+      "website": "https://www.ximalaya.com",
+      "description": "音频分享平台",
+      "tags": ["音频", "播客", "有声书", "电台", "知识"],
+      "region": ["CN"],
+      "appStoreId": "876336838"
+    },
+    
+ 
+    {
+      "id": "weibo-vip",
+      "name": "微博会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/weibo-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP"
+        },
+        {
+          "price": 118,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "VIP年费"
+        },
+        {
+          "price": 30,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "SVIP"
+        },
+        {
+          "price": 258,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "SVIP年费"
+        },
+        {
+          "price": 688,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "VVIP年费"
+        }
+      ],
+      "website": "https://weibo.com",
+      "description": "社交媒体平台会员服务",
+      "tags": ["社交", "微博", "热搜", "关注", "互动"],
+      "region": ["CN"],
+      "appStoreId": "350962117"
+    },
+    
+    {
+      "id": "tencent-meeting-pro",
+      "name": "腾讯会议专业版",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/tencent-meeting-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 25,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "专业版"
+        },
+        {
+          "price": 388,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "企业版"
+        }
+      ],
+      "website": "https://meeting.tencent.com",
+      "description": "腾讯视频会议服务",
+      "tags": ["视频会议", "远程办公", "屏幕共享", "录制", "腾讯"],
+      "region": ["CN"],
+      "appStoreId": "1484048379"
+    },
+    {
+      "id": "wps-premium",
+      "name": "WPS会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/wps-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 28,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "超级会员"
+        },
+        {
+          "price": 128,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度超级会员"
+        },
+        {
+          "price": 28,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "大会员"
+        },
+        {
+          "price": 168,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度大会员"
+        }
+      ],
+      "website": "https://www.wps.cn",
+      "description": "金山办公软件套件",
+      "tags": ["办公", "文档", "表格", "演示", "云同步"],
+      "region": ["CN"],
+      "appStoreId": "599972693"
+    },
+   
+    {
+      "id": "baidunetdisk-vip",
+      "name": "百度网盘",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/baidu-icon.png/200x200bb.jpg",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 25,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP"
+        },
+        {
+          "price": 248,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "VIP年费"
+        },
+        {
+          "price": 40,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "SVIP"
+        },
+        {
+          "price": 298,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "VIP年费"
+        }
+      ],
+      "website": "https://pan.baidu.com",
+      "description": "百度云存储服务",
+      "tags": ["云存储", "网盘", "下载", "备份", "百度"],
+      "region": ["CN"],
+      "appStoreId": "547166701"
+    },
+    {
+      "id": "115-vip",
+      "name": "115网盘VIP",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/115-icon.png/200x200bb.jpg",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP会员"
+        },
+        {
+          "price": 168,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度VIP"
+        }
+      ],
+      "website": "https://115.com",
+      "description": "115云存储服务",
+      "tags": ["云存储", "网盘", "高速", "离线", "下载"],
+      "region": ["CN"],
+      "appStoreId": "1340100996"
+    },
+    {
+      "id": "aliyundrive-premium",
+      "name": "阿里云盘会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/aliyun-icon.png/200x200bb.jpg",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 19.9,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "超级会员"
+        },
+        {
+          "price": 199,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度超级会员"
+        }
+      ],
+      "website": "https://www.aliyundrive.com",
+      "description": "阿里巴巴云存储服务",
+      "tags": ["云存储", "网盘", "高速", "备份", "阿里"],
+      "region": ["CN"],
+      "appStoreId": "1622842550"
+    },
+    {
+      "id": "quark-premium",
+      "name": "夸克网盘会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/quark-icon.png/200x200bb.jpg",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 25,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "SVIP"
+        },
+        {
+          "price": 198,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "SVIP年费"
+        },
+        {
+          "price": 29.9,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "SVIP+(连续包月)"
+        },
+        {
+          "price": 258,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "SVIP+(年费)"
+        }
+      ],
+      "website": "https://pan.quark.cn",
+      "description": "UC夸克云存储服务",
+      "tags": ["云存储", "网盘", "高速", "智能", "UC"],
+      "region": ["CN"],
+      "appStoreId": "1160172628"
+    },
+   
+   
+    {
+      "id": "twitter-blue",
+      "name": "X Premium (Twitter Blue)",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/twitter-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 8,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Premium"
+        },
+        {
+          "price": 16,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Premium+"
+        }
+      ],
+      "website": "https://twitter.com/i/premium_sign_up",
+      "description": "X平台高级会员服务",
+      "tags": ["社交", "微博", "验证", "编辑", "优先"],
+      "region": ["US", "Global"],
+      "appStoreId": "333903271"
+    },
+   
+    {
+      "id": "duolingo-plus",
+      "name": "Duolingo Plus",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/duolingo-icon.png/200x200bb.jpg",
+      "category": "news",
+      "commonPrices": [
+        {
+          "price": 6.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Plus版"
+        },
+        {
+          "price": 83.99,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费版"
+        }
+      ],
+      "website": "https://www.duolingo.com/plus",
+      "description": "多邻国语言学习高级版",
+      "tags": ["语言学习", "外语", "无广告", "离线", "练习"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "570060128"
+    },
+    
+    {
+      "id": "meituan-vip",
+      "name": "美团外卖会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/meituan-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "外卖会员"
+        },
+        {
+          "price": 168,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度会员"
+        }
+      ],
+      "website": "https://www.meituan.com",
+      "description": "美团外卖配送会员服务",
+      "tags": ["外卖", "配送", "优惠", "免配送费", "美团"],
+      "region": ["CN"],
+      "appStoreId": "737310995"
+    },
+    {
+      "id": "eleme-vip",
+      "name": "饿了么超级会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eleme-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "超级会员"
+        },
+        {
+          "price": 168,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度超级会员"
+        }
+      ],
+      "website": "https://www.ele.me",
+      "description": "饿了么外卖配送会员服务",
+      "tags": ["外卖", "配送", "优惠", "免配送费", "阿里"],
+      "region": ["CN"],
+      "appStoreId": "507670533"
+    },
+    {
+      "id": "didi-vip",
+      "name": "滴滴出行会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/didi-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 19.9,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "出行会员"
+        },
+        {
+          "price": 199,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度出行会员"
+        }
+      ],
+      "website": "https://www.didiglobal.com",
+      "description": "滴滴出行打车会员服务",
+      "tags": ["打车", "出行", "优惠", "专车", "滴滴"],
+      "region": ["CN"],
+      "appStoreId": "554499054"
+    },
+    
+    {
+      "id": "kugou-vip",
+      "name": "酷狗音乐VIP",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/kugou-icon.png/200x200bb.jpg",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP会员"
+        },
+        {
+          "price": 138,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度VIP"
+        },
+        {
+          "price": 25,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "豪华VIP"
+        }
+      ],
+      "website": "https://www.kugou.com",
+      "description": "酷狗音乐流媒体服务",
+      "tags": ["音乐", "流媒体", "无损", "下载", "K歌"],
+      "region": ["CN"],
+      "appStoreId": "472208016"
+    },
+    {
+      "id": "kuwo-vip",
+      "name": "酷我音乐VIP",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/kuwo-icon.png/200x200bb.jpg",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP会员"
+        },
+        {
+          "price": 138,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度VIP"
+        }
+      ],
+      "website": "https://www.kuwo.cn",
+      "description": "酷我音乐流媒体服务",
+      "tags": ["音乐", "流媒体", "无损", "下载", "MV"],
+      "region": ["CN"],
+      "appStoreId": "588673713"
+    },
+    {
+      "id": "migu-music-vip",
+      "name": "咪咕音乐会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/migu-icon.png/200x200bb.jpg",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "会员版"
+        },
+        {
+          "price": 150,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度会员"
+        }
+      ],
+      "website": "https://music.migu.cn",
+      "description": "中国移动咪咕音乐服务",
+      "tags": ["音乐", "移动", "5G", "高音质", "演出"],
+      "region": ["CN"],
+      "appStoreId": "1015071982"
+    },
+    {
+      "id": "mango-tv-vip",
+      "name": "芒果TV会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/mango-icon.png/200x200bb.jpg",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 30,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "VIP会员"
+        },
+        {
+          "price": 99,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度VIP"
+        },
+        {
+          "price": 40,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "SVIP"
+        },
+        {
+          "price": 268,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度SVIP"
+        },
+        {
+          "price": 50,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "全屏会员"
+        },
+        {
+          "price": 388,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度全屏会员"
+        }
+      ],
+      "website": "https://www.mgtv.com",
+      "description": "湖南卫视芒果TV会员服务",
+      "tags": ["视频", "综艺", "湖南卫视", "独播", "明星"],
+      "region": ["CN"],
+      "appStoreId": "1092836533"
+    },
+    {
+      "id": "jingdong-plus",
+      "name": "京东PLUS会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/jd-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 19.9,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "PLUS会员"
+        },
+        {
+          "price": 148,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度PLUS"
+        }
+      ],
+      "website": "https://www.jd.com",
+      "description": "京东电商平台会员服务",
+      "tags": ["购物", "电商", "免运费", "优惠", "京东"],
+      "region": ["CN"],
+      "appStoreId": "414245413"
+    },
+    {
+      "id": "taobao-88vip",
+      "name": "淘宝88VIP",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/taobao-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 88,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "88VIP会员"
+        }
+      ],
+      "website": "https://www.taobao.com",
+      "description": "淘宝天猫88VIP超级会员",
+      "tags": ["购物", "电商", "优惠", "天猫", "阿里"],
+      "region": ["CN"],
+      "appStoreId": "387682726"
+    },
+    {
+      "id": "pinduoduo-monthly",
+      "name": "拼多多省钱月卡",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/pdd-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 9.9,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "省钱月卡"
+        }
+      ],
+      "website": "https://www.pinduoduo.com",
+      "description": "拼多多购物优惠月卡",
+      "tags": ["购物", "拼团", "优惠", "省钱", "社交电商"],
+      "region": ["CN"],
+      "appStoreId": "1044283059"
+    },
+   
+    {
+      "id": "xmind",
+      "name": "XMind",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/xmind-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 59.99,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费版"
+        },
+        {
+          "price": 399,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "中国版"
+        }
+      ],
+      "website": "https://www.xmind.net",
+      "description": "全功能思维导图软件",
+      "tags": ["思维导图", "头脑风暴", "规划", "知识管理", "中国"],
+      "region": ["CN", "US", "Global"],
+      "appStoreId": "1327661892"
+    },
+    
+   
+    {
+      "id": "jinshan-wps-ai",
+      "name": "WPS AI",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/wps-ai-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 45,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "AI会员"
+        },
+        {
+          "price": 459,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度AI会员"
+        }
+      ],
+      "website": "https://ai.wps.cn",
+      "description": "WPS AI智能办公助手",
+      "tags": ["AI", "办公", "写作", "智能助手", "金山"],
+      "region": ["CN"],
+      "appStoreId": "599972693"
+    },
+   
+    {
+      "id": "qq-music-green-diamond",
+      "name": "QQ音乐绿钻",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/qq-music-icon.png/200x200bb.jpg",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 18,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "绿钻豪华版"
+        },
+        {
+          "price": 168,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费绿钻"
+        },
+        {
+          "price": 40,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "超级绿钻"
+        }
+      ],
+      "website": "https://y.qq.com",
+      "description": "QQ音乐高品质音乐服务",
+      "tags": ["音乐", "无损", "下载", "MV", "腾讯"],
+      "region": ["CN"],
+      "appStoreId": "414603431"
+    },
+    {
+      "id": "netease-cloud-music-vip",
+      "name": "网易云音乐VIP",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/netease-music-icon.png/200x200bb.jpg",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 18,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "黑胶VIP"
+        },
+        {
+          "price": 178,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "黑胶VIP"
+        },
+        {
+          "price": 40,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "黑胶SVIP"
+        },
+        {
+          "price": 348,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "黑胶SVIP"
+        }
+      ],
+      "website": "https://music.163.com",
+      "description": "网易云音乐会员服务",
+      "tags": ["音乐", "个性化", "歌单", "评论", "网易"],
+      "region": ["CN"],
+      "appStoreId": "590338362"
+    },
+    {
+      "id": "qq-vip",
+      "name": "QQ会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/qq-icon.png/200x200bb.jpg",
+      "category": "lifestyle",
+      "commonPrices": [
+        {
+          "price": 12,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "QQ会员"
+        },
+        {
+          "price": 118,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费QQ会员"
+        },
+        {
+          "price": 25,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "超级会员"
+        },
+        {
+          "price": 238,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年费超级会员"
+        }
+      ],
+      "website": "https://vip.qq.com",
+      "description": "QQ即时通讯会员服务",
+      "tags": ["社交", "QQ", "特权", "个性化", "腾讯"],
+      "region": ["CN"],
+      "appStoreId": "444934666"
+    },
+    
+    {
+      "id": "yuque-vip",
+      "name": "语雀会员",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/yuque-icon.png/200x200bb.jpg",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 99,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "专业会员"
+        },
+        {
+          "price": 299,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "超级会员"
+        }
+      ],
+      "website": "https://www.yuque.com",
+      "description": "语雀知识库和文档工具",
+      "tags": ["文档", "知识库", "协作", "笔记", "阿里"],
+      "region": ["CN"],
+      "appStoreId": "1422452449"
+    },
+     {
       "id": "netflix-bundle",
       "name": "Netflix 超值套餐",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5e/99/86/5e998694-8e4b-f0d7-8d8a-5ce5e7a3b8e7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
@@ -242,30 +1559,51 @@
     {
       "id": "iqiyi",
       "name": "爱奇艺",
-      "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-music-icon.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/08/0f/74080f52-1234-5678-9abc-def123456789/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "video",
       "isBundle": false,
       "commonPrices": [
         {
-          "price": 19,
+          "price": 30,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "VIP会员"
+          "description": "黄金VIP"
         },
         {
           "price": 198,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "VIP年费"
+          "description": "黄金VIP年费"
         },
         {
-          "price": 30,
+          "price": 50,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "白金VIP"
+        },
+        {
+          "price": 308,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "白金VIP年费"
+        },
+        {
+          "price": 60,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
           "description": "星钻VIP"
+        },
+        {
+          "price": 448,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "星钻VIP年费"
         }
       ],
       "website": "https://www.iqiyi.com",
@@ -347,7 +1685,7 @@
     {
       "id": "icloud-plus",
       "name": "iCloud+",
-      "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-music-icon.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/13/73/6a/13736af5-5d7e-d100-9cbd-6ed5c06d36f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.jpg",
       "category": "utility",
       "isBundle": false,
       "commonPrices": [
@@ -443,14 +1781,14 @@
       "isBundle": false,
       "commonPrices": [
         {
-          "price": 19,
+          "price": 25,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
           "description": "会员版"
         },
         {
-          "price": 228,
+          "price": 138,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
@@ -527,4 +1865,4 @@
       "appStoreId": "1232780281"
     }
   ]
-} 
+}
