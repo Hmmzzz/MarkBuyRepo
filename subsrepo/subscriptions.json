@@ -102,7 +102,7 @@
     {
       "id": "canva-pro",
       "name": "Canva Pro",
-      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/canva.png",
       "category": "productivity",
       "commonPrices": [
         {
@@ -130,7 +130,7 @@
     {
       "id": "google-workspace",
       "name": "Google Workspace",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/google-workspace-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/google.png",
       "category": "productivity",
       "commonPrices": [
         {
@@ -156,7 +156,7 @@
     {
       "id": "dropbox",
       "name": "Dropbox",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dropbox-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/dropbox.png",
       "category": "utility",
       "commonPrices": [
         {
@@ -183,7 +183,7 @@
     {
       "id": "google-one",
       "name": "Google One",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/google-one-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/googleone.png",
       "category": "utility",
       "commonPrices": [
         {
@@ -217,7 +217,7 @@
     {
       "id": "1password",
       "name": "1Password",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1password-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/1password.png",
       "category": "utility",
       "commonPrices": [
         {
@@ -245,7 +245,7 @@
     {
       "id": "tencent-video",
       "name": "腾讯视频",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/tencent-video-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/tencentvideo.png",
       "category": "video",
       "commonPrices": [
         {
@@ -286,7 +286,7 @@
     {
       "id": "bilibili",
       "name": "哔哩哔哩",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bilibili-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/",
       "category": "video",
       "commonPrices": [
         {
@@ -327,7 +327,7 @@
     {
       "id": "youku",
       "name": "优酷",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/youku-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/",
       "category": "video",
       "commonPrices": [
         {
@@ -368,7 +368,7 @@
     {
       "id": "chatgpt-plus",
       "name": "ChatGPT Plus",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/chatgpt-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/",
       "category": "productivity",
       "commonPrices": [
         {
@@ -404,7 +404,7 @@
     {
       "id": "github-copilot",
       "name": "GitHub Copilot",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/github-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/",
       "category": "productivity",
       "commonPrices": [
         {
