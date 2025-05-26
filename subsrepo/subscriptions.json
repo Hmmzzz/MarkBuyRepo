@@ -5,7 +5,7 @@
     {
       "id": "youtube-premium",
       "name": "YouTube Premium",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/youtube-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/youtube.png",
       "category": "video",
       "commonPrices": [
         {
@@ -39,7 +39,7 @@
     {
       "id": "disney-plus",
       "name": "Disney+",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/disney-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/disney.png",
       "category": "video",
       "commonPrices": [
         {
@@ -68,7 +68,7 @@
     {
       "id": "adobe-photoshop",
       "name": "Adobe Photoshop",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/photoshop-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/photoshop.png",
       "category": "productivity",
       "commonPrices": [
         {
@@ -102,7 +102,7 @@
     {
       "id": "canva-pro",
       "name": "Canva Pro",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/canva-icon.png/200x200bb.jpg",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/",
       "category": "productivity",
       "commonPrices": [
         {
