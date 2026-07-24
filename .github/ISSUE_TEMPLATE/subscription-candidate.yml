@@ -1,0 +1,80 @@
+name: 热门订阅候选
+description: 提交一个需要核验并加入 MarkBuy 的热门订阅
+title: "[Candidate] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        候选不会直接进入正式目录。维护者会在本地核验价格、地区、图标和套餐信息，再提交审核后的公开结果。
+  - type: input
+    id: name
+    attributes:
+      label: 服务名称
+      placeholder: Example Pro
+    validations:
+      required: true
+  - type: dropdown
+    id: operation
+    attributes:
+      label: 变更类型
+      options:
+        - add
+        - update
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: 官方网站
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: pricing
+    attributes:
+      label: 官方定价来源
+      description: 必须是可以复核套餐与价格的官方页面
+      placeholder: https://example.com/pricing
+    validations:
+      required: true
+  - type: input
+    id: app_store_id
+    attributes:
+      label: App Store ID
+      description: 没有可以留空
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类
+      options:
+        - video
+        - music
+        - productivity
+        - utility
+        - gaming
+        - news
+        - lifestyle
+        - entertainment
+        - other
+    validations:
+      required: true
+  - type: input
+    id: regions
+    attributes:
+      label: 地区
+      description: 使用 ISO 两位地区代码或 Global，以逗号分隔
+      placeholder: CN, Global
+    validations:
+      required: true
+  - type: textarea
+    id: plans
+    attributes:
+      label: 套餐与价格
+      description: 写明币种、周期、套餐名及是否买断
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 备注
+      description: 可补充图标来源、地区限制或套餐关系

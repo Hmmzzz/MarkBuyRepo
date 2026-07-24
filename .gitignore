@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+build/
+credentials/
+downloads/
+node_modules/
+reports/
+state/
+*.key
+*.log
+*.p12
+*.pem
+*.pfx
