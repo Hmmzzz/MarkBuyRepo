@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "lastUpdated": "2026-07-24T09:10:52Z",
+  "lastUpdated": "2026-07-24T13:11:14.306Z",
   "subscriptions": [
     {
       "id": "youtube-premium",
@@ -32,8 +32,17 @@
       ],
       "website": "https://www.youtube.com/premium",
       "description": "YouTube 无广告高级会员服务",
-      "tags": ["视频", "无广告", "YouTube Music", "离线下载", "后台播放"],
-      "region": ["US", "Global"],
+      "tags": [
+        "视频",
+        "无广告",
+        "YouTube Music",
+        "离线下载",
+        "后台播放"
+      ],
+      "region": [
+        "US",
+        "Global"
+      ],
       "appStoreId": "544007664"
     },
     {
@@ -59,12 +68,20 @@
       ],
       "website": "https://www.disneyplus.com",
       "description": "迪士尼官方流媒体平台",
-      "tags": ["视频", "迪士尼", "漫威", "星战", "皮克斯", "国家地理"],
-      "region": ["US", "Global"],
+      "tags": [
+        "视频",
+        "迪士尼",
+        "漫威",
+        "星战",
+        "皮克斯",
+        "国家地理"
+      ],
+      "region": [
+        "US",
+        "Global"
+      ],
       "appStoreId": "1446075923"
     },
-    
-   
     {
       "id": "adobe-photoshop",
       "name": "Adobe Photoshop",
@@ -95,8 +112,18 @@
       ],
       "website": "https://www.adobe.com/products/photoshop.html",
       "description": "专业图像编辑软件",
-      "tags": ["设计", "修图", "创意", "专业工具", "Adobe"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "设计",
+        "修图",
+        "创意",
+        "专业工具",
+        "Adobe"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1449100072"
     },
     {
@@ -122,11 +149,20 @@
       ],
       "website": "https://www.canva.com/pro/",
       "description": "在线设计平台专业版",
-      "tags": ["设计", "模板", "创意", "简单易用", "协作"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "设计",
+        "模板",
+        "创意",
+        "简单易用",
+        "协作"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "897446215"
     },
-   
     {
       "id": "google-workspace",
       "name": "Google Workspace",
@@ -150,8 +186,18 @@
       ],
       "website": "https://workspace.google.com",
       "description": "Google 企业协作套件",
-      "tags": ["办公", "协作", "邮箱", "云存储", "Google"],
-      "region": ["CN", "US", "Global"]
+      "tags": [
+        "办公",
+        "协作",
+        "邮箱",
+        "云存储",
+        "Google"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ]
     },
     {
       "id": "dropbox",
@@ -176,8 +222,18 @@
       ],
       "website": "https://www.dropbox.com",
       "description": "云存储和文件同步服务",
-      "tags": ["云存储", "同步", "备份", "文件共享", "协作"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "云存储",
+        "同步",
+        "备份",
+        "文件共享",
+        "协作"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "327630330"
     },
     {
@@ -210,8 +266,18 @@
       ],
       "website": "https://one.google.com",
       "description": "Google 云存储扩容服务",
-      "tags": ["云存储", "Google", "备份", "照片", "扩容"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "云存储",
+        "Google",
+        "备份",
+        "照片",
+        "扩容"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1470041502"
     },
     {
@@ -237,11 +303,20 @@
       ],
       "website": "https://1password.com",
       "description": "密码管理器",
-      "tags": ["密码", "安全", "加密", "多平台", "同步"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "密码",
+        "安全",
+        "加密",
+        "多平台",
+        "同步"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1511601750"
     },
-   
     {
       "id": "tencent-video",
       "name": "腾讯视频",
@@ -279,8 +354,17 @@
       ],
       "website": "https://v.qq.com",
       "description": "腾讯视频流媒体服务",
-      "tags": ["视频", "电影", "电视剧", "综艺", "动漫", "腾讯"],
-      "region": ["CN"],
+      "tags": [
+        "视频",
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫",
+        "腾讯"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "458318329"
     },
     {
@@ -320,8 +404,16 @@
       ],
       "website": "https://www.bilibili.com",
       "description": "年轻人的文化社区",
-      "tags": ["视频", "弹幕", "二次元", "UP主", "社区"],
-      "region": ["CN"],
+      "tags": [
+        "视频",
+        "弹幕",
+        "二次元",
+        "UP主",
+        "社区"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "736536022"
     },
     {
@@ -361,8 +453,16 @@
       ],
       "website": "https://www.youku.com",
       "description": "阿里巴巴旗下视频平台",
-      "tags": ["视频", "电影", "电视剧", "综艺", "阿里"],
-      "region": ["CN"],
+      "tags": [
+        "视频",
+        "电影",
+        "电视剧",
+        "综艺",
+        "阿里"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "336141475"
     },
     {
@@ -392,15 +492,22 @@
           "isPermanent": false,
           "description": "Team"
         }
-        
       ],
       "website": "https://chat.openai.com",
       "description": "OpenAI 人工智能聊天助手",
-      "tags": ["AI", "聊天", "写作", "编程", "智能助手"],
-      "region": ["US", "Global"],
+      "tags": [
+        "AI",
+        "聊天",
+        "写作",
+        "编程",
+        "智能助手"
+      ],
+      "region": [
+        "US",
+        "Global"
+      ],
       "appStoreId": "6448311069"
     },
-    
     {
       "id": "github-copilot",
       "name": "GitHub Copilot",
@@ -424,8 +531,18 @@
       ],
       "website": "https://github.com/features/copilot",
       "description": "AI 编程助手",
-      "tags": ["AI", "编程", "代码", "开发", "GitHub"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "AI",
+        "编程",
+        "代码",
+        "开发",
+        "GitHub"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1477376905"
     },
     {
@@ -444,8 +561,18 @@
       ],
       "website": "https://github.com/pricing",
       "description": "GitHub 专业版服务",
-      "tags": ["代码", "版本控制", "协作", "开发", "仓库"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "代码",
+        "版本控制",
+        "协作",
+        "开发",
+        "仓库"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1477376905"
     },
     {
@@ -475,15 +602,21 @@
           "isPermanent": false,
           "description": "Team"
         }
-        
       ],
       "website": "https://claude.ai",
       "description": "Anthropic AI 助手",
-      "tags": ["AI", "聊天", "写作", "分析", "智能助手"],
-      "region": ["US", "Global"]
+      "tags": [
+        "AI",
+        "聊天",
+        "写作",
+        "分析",
+        "智能助手"
+      ],
+      "region": [
+        "US",
+        "Global"
+      ]
     },
-   
-
     {
       "id": "ximalaya",
       "name": "喜马拉雅",
@@ -507,12 +640,18 @@
       ],
       "website": "https://www.ximalaya.com",
       "description": "音频分享平台",
-      "tags": ["音频", "播客", "有声书", "电台", "知识"],
-      "region": ["CN"],
+      "tags": [
+        "音频",
+        "播客",
+        "有声书",
+        "电台",
+        "知识"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "876336838"
     },
-    
- 
     {
       "id": "weibo-vip",
       "name": "微博会员",
@@ -557,11 +696,18 @@
       ],
       "website": "https://weibo.com",
       "description": "社交媒体平台会员服务",
-      "tags": ["社交", "微博", "热搜", "关注", "互动"],
-      "region": ["CN"],
+      "tags": [
+        "社交",
+        "微博",
+        "热搜",
+        "关注",
+        "互动"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "350962117"
     },
-    
     {
       "id": "tencent-meeting-pro",
       "name": "腾讯会议专业版",
@@ -585,8 +731,16 @@
       ],
       "website": "https://meeting.tencent.com",
       "description": "腾讯视频会议服务",
-      "tags": ["视频会议", "远程办公", "屏幕共享", "录制", "腾讯"],
-      "region": ["CN"],
+      "tags": [
+        "视频会议",
+        "远程办公",
+        "屏幕共享",
+        "录制",
+        "腾讯"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1484048379"
     },
     {
@@ -626,11 +780,18 @@
       ],
       "website": "https://www.wps.cn",
       "description": "金山办公软件套件",
-      "tags": ["办公", "文档", "表格", "演示", "云同步"],
-      "region": ["CN"],
+      "tags": [
+        "办公",
+        "文档",
+        "表格",
+        "演示",
+        "云同步"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "599972693"
     },
-   
     {
       "id": "baidunetdisk-vip",
       "name": "百度网盘",
@@ -668,8 +829,16 @@
       ],
       "website": "https://pan.baidu.com",
       "description": "百度云存储服务",
-      "tags": ["云存储", "网盘", "下载", "备份", "百度"],
-      "region": ["CN"],
+      "tags": [
+        "云存储",
+        "网盘",
+        "下载",
+        "备份",
+        "百度"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "547166701"
     },
     {
@@ -695,8 +864,16 @@
       ],
       "website": "https://115.com",
       "description": "115云存储服务",
-      "tags": ["云存储", "网盘", "高速", "离线", "下载"],
-      "region": ["CN"],
+      "tags": [
+        "云存储",
+        "网盘",
+        "高速",
+        "离线",
+        "下载"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1340100996"
     },
     {
@@ -722,8 +899,16 @@
       ],
       "website": "https://www.aliyundrive.com",
       "description": "阿里巴巴云存储服务",
-      "tags": ["云存储", "网盘", "高速", "备份", "阿里"],
-      "region": ["CN"],
+      "tags": [
+        "云存储",
+        "网盘",
+        "高速",
+        "备份",
+        "阿里"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1622842550"
     },
     {
@@ -763,12 +948,18 @@
       ],
       "website": "https://pan.quark.cn",
       "description": "UC夸克云存储服务",
-      "tags": ["云存储", "网盘", "高速", "智能", "UC"],
-      "region": ["CN"],
+      "tags": [
+        "云存储",
+        "网盘",
+        "高速",
+        "智能",
+        "UC"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1160172628"
     },
-   
-   
     {
       "id": "twitter-blue",
       "name": "X Premium (Twitter Blue)",
@@ -792,39 +983,64 @@
       ],
       "website": "https://twitter.com/i/premium_sign_up",
       "description": "X平台高级会员服务",
-      "tags": ["社交", "微博", "验证", "编辑", "优先"],
-      "region": ["US", "Global"],
+      "tags": [
+        "社交",
+        "微博",
+        "验证",
+        "编辑",
+        "优先"
+      ],
+      "region": [
+        "US",
+        "Global"
+      ],
       "appStoreId": "333903271"
     },
-   
     {
       "id": "duolingo-plus",
-      "name": "Duolingo Plus",
+      "name": "Super Duolingo",
       "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/duolingo.png",
-      "category": "news",
+      "category": "other",
       "commonPrices": [
         {
-          "price": 6.99,
+          "price": 9.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Plus版"
+          "description": "Super Duolingo"
         },
         {
           "price": 83.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "年费版"
+          "description": "Super Duolingo"
+        },
+        {
+          "price": 588,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Super Duolingo"
         }
       ],
-      "website": "https://www.duolingo.com/plus",
-      "description": "多邻国语言学习高级版",
-      "tags": ["语言学习", "外语", "无广告", "离线", "练习"],
-      "region": ["CN", "US", "Global"],
-      "appStoreId": "570060128"
+      "website": "https://www.duolingo.com/super",
+      "description": "多邻国的高级订阅，提供无广告学习、无限红心等增强功能",
+      "tags": [
+        "语言学习",
+        "教育",
+        "无广告",
+        "练习",
+        "Duolingo"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
+      "appStoreId": "570060128",
+      "isBundle": false
     },
-    
     {
       "id": "meituan-vip",
       "name": "美团外卖会员",
@@ -848,8 +1064,16 @@
       ],
       "website": "https://www.meituan.com",
       "description": "美团外卖配送会员服务",
-      "tags": ["外卖", "配送", "优惠", "免配送费", "美团"],
-      "region": ["CN"],
+      "tags": [
+        "外卖",
+        "配送",
+        "优惠",
+        "免配送费",
+        "美团"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "737310995"
     },
     {
@@ -875,8 +1099,16 @@
       ],
       "website": "https://www.ele.me",
       "description": "饿了么外卖配送会员服务",
-      "tags": ["外卖", "配送", "优惠", "免配送费", "阿里"],
-      "region": ["CN"],
+      "tags": [
+        "外卖",
+        "配送",
+        "优惠",
+        "免配送费",
+        "阿里"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "507670533"
     },
     {
@@ -902,11 +1134,18 @@
       ],
       "website": "https://www.didiglobal.com",
       "description": "滴滴出行打车会员服务",
-      "tags": ["打车", "出行", "优惠", "专车", "滴滴"],
-      "region": ["CN"],
+      "tags": [
+        "打车",
+        "出行",
+        "优惠",
+        "专车",
+        "滴滴"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "554499054"
     },
-    
     {
       "id": "kugou-vip",
       "name": "酷狗音乐VIP",
@@ -937,8 +1176,16 @@
       ],
       "website": "https://www.kugou.com",
       "description": "酷狗音乐流媒体服务",
-      "tags": ["音乐", "流媒体", "无损", "下载", "K歌"],
-      "region": ["CN"],
+      "tags": [
+        "音乐",
+        "流媒体",
+        "无损",
+        "下载",
+        "K歌"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "472208016"
     },
     {
@@ -964,8 +1211,16 @@
       ],
       "website": "https://www.kuwo.cn",
       "description": "酷我音乐流媒体服务",
-      "tags": ["音乐", "流媒体", "无损", "下载", "MV"],
-      "region": ["CN"],
+      "tags": [
+        "音乐",
+        "流媒体",
+        "无损",
+        "下载",
+        "MV"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "588673713"
     },
     {
@@ -991,8 +1246,16 @@
       ],
       "website": "https://music.migu.cn",
       "description": "中国移动咪咕音乐服务",
-      "tags": ["音乐", "移动", "5G", "高音质", "演出"],
-      "region": ["CN"],
+      "tags": [
+        "音乐",
+        "移动",
+        "5G",
+        "高音质",
+        "演出"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1015071982"
     },
     {
@@ -1046,8 +1309,16 @@
       ],
       "website": "https://www.mgtv.com",
       "description": "湖南卫视芒果TV会员服务",
-      "tags": ["视频", "综艺", "湖南卫视", "独播", "明星"],
-      "region": ["CN"],
+      "tags": [
+        "视频",
+        "综艺",
+        "湖南卫视",
+        "独播",
+        "明星"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1092836533"
     },
     {
@@ -1073,8 +1344,16 @@
       ],
       "website": "https://www.jd.com",
       "description": "京东电商平台会员服务",
-      "tags": ["购物", "电商", "免运费", "优惠", "京东"],
-      "region": ["CN"],
+      "tags": [
+        "购物",
+        "电商",
+        "免运费",
+        "优惠",
+        "京东"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "414245413"
     },
     {
@@ -1093,8 +1372,16 @@
       ],
       "website": "https://www.taobao.com",
       "description": "淘宝天猫88VIP超级会员",
-      "tags": ["购物", "电商", "优惠", "天猫", "阿里"],
-      "region": ["CN"],
+      "tags": [
+        "购物",
+        "电商",
+        "优惠",
+        "天猫",
+        "阿里"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "387682726"
     },
     {
@@ -1113,11 +1400,18 @@
       ],
       "website": "https://www.pinduoduo.com",
       "description": "拼多多购物优惠月卡",
-      "tags": ["购物", "拼团", "优惠", "省钱", "社交电商"],
-      "region": ["CN"],
+      "tags": [
+        "购物",
+        "拼团",
+        "优惠",
+        "省钱",
+        "社交电商"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1044283059"
     },
-   
     {
       "id": "xmind",
       "name": "XMind",
@@ -1141,12 +1435,20 @@
       ],
       "website": "https://www.xmind.net",
       "description": "全功能思维导图软件",
-      "tags": ["思维导图", "头脑风暴", "规划", "知识管理", "中国"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "思维导图",
+        "头脑风暴",
+        "规划",
+        "知识管理",
+        "中国"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1327661892"
     },
-    
-   
     {
       "id": "jinshan-wps-ai",
       "name": "WPS AI",
@@ -1170,11 +1472,18 @@
       ],
       "website": "https://ai.wps.cn",
       "description": "WPS AI智能办公助手",
-      "tags": ["AI", "办公", "写作", "智能助手", "金山"],
-      "region": ["CN"],
+      "tags": [
+        "AI",
+        "办公",
+        "写作",
+        "智能助手",
+        "金山"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "599972693"
     },
-   
     {
       "id": "qq-music-green-diamond",
       "name": "QQ音乐绿钻",
@@ -1205,8 +1514,16 @@
       ],
       "website": "https://y.qq.com",
       "description": "QQ音乐高品质音乐服务",
-      "tags": ["音乐", "无损", "下载", "MV", "腾讯"],
-      "region": ["CN"],
+      "tags": [
+        "音乐",
+        "无损",
+        "下载",
+        "MV",
+        "腾讯"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "414603431"
     },
     {
@@ -1246,8 +1563,16 @@
       ],
       "website": "https://music.163.com",
       "description": "网易云音乐会员服务",
-      "tags": ["音乐", "个性化", "歌单", "评论", "网易"],
-      "region": ["CN"],
+      "tags": [
+        "音乐",
+        "个性化",
+        "歌单",
+        "评论",
+        "网易"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "590338362"
     },
     {
@@ -1287,11 +1612,18 @@
       ],
       "website": "https://vip.qq.com",
       "description": "QQ即时通讯会员服务",
-      "tags": ["社交", "QQ", "特权", "个性化", "腾讯"],
-      "region": ["CN"],
+      "tags": [
+        "社交",
+        "QQ",
+        "特权",
+        "个性化",
+        "腾讯"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "444934666"
     },
-    
     {
       "id": "yuque-vip",
       "name": "语雀会员",
@@ -1315,60 +1647,17 @@
       ],
       "website": "https://www.yuque.com",
       "description": "语雀知识库和文档工具",
-      "tags": ["文档", "知识库", "协作", "笔记", "阿里"],
-      "region": ["CN"],
+      "tags": [
+        "文档",
+        "知识库",
+        "协作",
+        "笔记",
+        "阿里"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1422452449"
-    },
-     {
-      "id": "netflix-bundle",
-      "name": "Netflix 超值套餐",
-      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/netflix.png",
-      "category": "video",
-      "isBundle": true,
-      "commonPrices": [
-        {
-          "price": 128,
-          "currency": "CNY",
-          "billingCycle": "monthly",
-          "isPermanent": false,
-          "description": "套餐优惠价"
-        }
-      ],
-      "bundledSubscriptions": [
-        {
-          "name": "Apple Music",
-          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/applemusic.png",
-          "category": "music",
-          "price": 0,
-          "originalPrice": 10,
-          "currency": "CNY",
-          "billingCycle": "monthly",
-          "isPermanent": false,
-          "description": "个人版（赠送）",
-          "website": "https://music.apple.com",
-          "tags": ["音乐", "流媒体", "Apple", "高品质"],
-          "appStoreId": "1108187390"
-        },
-        {
-          "name": "iCloud+ 50GB",
-          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/icloud.png",
-          "category": "utility",
-          "price": 0,
-          "originalPrice": 6,
-          "currency": "CNY",
-          "billingCycle": "monthly",
-          "isPermanent": false,
-          "description": "50GB存储（赠送）",
-          "website": "https://www.icloud.com",
-          "tags": ["云存储", "备份", "Apple"],
-          "appStoreId": null
-        }
-      ],
-      "website": "https://www.netflix.com",
-      "description": "Netflix 高级版 + Apple Music 个人版 + iCloud+ 50GB 超值套餐，一次订阅享受视频、音乐、云存储三重服务",
-      "tags": ["视频", "音乐", "云存储", "套餐", "超值", "多服务"],
-      "region": ["CN", "US", "Global"],
-      "appStoreId": "363590051"
     },
     {
       "id": "adobe-creative-bundle",
@@ -1397,7 +1686,12 @@
           "isPermanent": false,
           "description": "10张图片/月（赠送）",
           "website": "https://stock.adobe.com",
-          "tags": ["素材", "图片", "设计", "Adobe"],
+          "tags": [
+            "素材",
+            "图片",
+            "设计",
+            "Adobe"
+          ],
           "appStoreId": null
         },
         {
@@ -1411,14 +1705,31 @@
           "isPermanent": false,
           "description": "无限字体（赠送）",
           "website": "https://fonts.adobe.com",
-          "tags": ["字体", "设计", "创意", "Adobe"],
+          "tags": [
+            "字体",
+            "设计",
+            "创意",
+            "Adobe"
+          ],
           "appStoreId": null
         }
       ],
       "website": "https://www.adobe.com",
       "description": "Adobe Creative Cloud 完整版 + Adobe Stock + Adobe Fonts，为创意工作者提供一站式解决方案",
-      "tags": ["设计", "创意", "PS", "AI", "Pr", "专业工具", "套餐"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "设计",
+        "创意",
+        "PS",
+        "AI",
+        "Pr",
+        "专业工具",
+        "套餐"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": null
     },
     {
@@ -1448,7 +1759,12 @@
           "isPermanent": false,
           "description": "每人1TB存储（赠送）",
           "website": "https://onedrive.live.com",
-          "tags": ["云存储", "备份", "Microsoft", "协作"],
+          "tags": [
+            "云存储",
+            "备份",
+            "Microsoft",
+            "协作"
+          ],
           "appStoreId": "477537958"
         },
         {
@@ -1462,14 +1778,30 @@
           "isPermanent": false,
           "description": "每月60分钟（赠送）",
           "website": "https://www.skype.com",
-          "tags": ["通话", "视频", "沟通", "Microsoft"],
+          "tags": [
+            "通话",
+            "视频",
+            "沟通",
+            "Microsoft"
+          ],
           "appStoreId": "304878510"
         }
       ],
       "website": "https://www.microsoft.com/zh-cn/microsoft-365",
       "description": "Microsoft 365 家庭版 + OneDrive 1TB + Skype 包月通话，为家庭用户提供完整的办公和沟通解决方案",
-      "tags": ["办公", "家庭", "云存储", "通话", "套餐", "Microsoft"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "办公",
+        "家庭",
+        "云存储",
+        "通话",
+        "套餐",
+        "Microsoft"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1450038993"
     },
     {
@@ -1477,42 +1809,44 @@
       "name": "Netflix",
       "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/netflix.png",
       "category": "video",
-      "isBundle": false,
       "commonPrices": [
         {
-          "price": 78,
-          "currency": "CNY",
-          "billingCycle": "monthly",
-          "isPermanent": false,
-          "description": "基础版"
-        },
-        {
-          "price": 98,
-          "currency": "CNY",
-          "billingCycle": "monthly",
-          "isPermanent": false,
-          "description": "标准版"
-        },
-        {
-          "price": 118,
-          "currency": "CNY",
-          "billingCycle": "monthly",
-          "isPermanent": false,
-          "description": "高级版"
-        },
-        {
-          "price": 15.49,
+          "price": 8.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "标准版"
+          "description": "Standard with ads"
+        },
+        {
+          "price": 19.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Standard"
+        },
+        {
+          "price": 26.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Premium"
         }
       ],
-      "website": "https://www.netflix.com",
-      "description": "全球领先的流媒体服务",
-      "tags": ["视频", "电影", "电视剧", "流媒体", "原创内容"],
-      "region": ["CN", "US", "Global"],
-      "appStoreId": "363590051"
+      "website": "https://www.netflix.com/",
+      "description": "提供电影、剧集和游戏的流媒体订阅服务；套餐与内容因地区而异",
+      "tags": [
+        "视频",
+        "流媒体",
+        "电影",
+        "剧集",
+        "Netflix"
+      ],
+      "region": [
+        "US",
+        "Global"
+      ],
+      "appStoreId": "363590051",
+      "isBundle": false
     },
     {
       "id": "apple-music",
@@ -1552,8 +1886,18 @@
       ],
       "website": "https://music.apple.com",
       "description": "Apple 官方音乐流媒体服务",
-      "tags": ["音乐", "流媒体", "Apple", "高品质", "无损音频"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "音乐",
+        "流媒体",
+        "Apple",
+        "高品质",
+        "无损音频"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1108187390"
     },
     {
@@ -1608,8 +1952,16 @@
       ],
       "website": "https://www.iqiyi.com",
       "description": "中国领先的在线视频平台",
-      "tags": ["视频", "电影", "电视剧", "综艺", "动漫"],
-      "region": ["CN"],
+      "tags": [
+        "视频",
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "393765873"
     },
     {
@@ -1643,8 +1995,19 @@
       ],
       "website": "https://www.adobe.com",
       "description": "专业创意设计软件套装",
-      "tags": ["设计", "创意", "PS", "AI", "Pr", "专业工具"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "设计",
+        "创意",
+        "PS",
+        "AI",
+        "Pr",
+        "专业工具"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": null
     },
     {
@@ -1678,8 +2041,19 @@
       ],
       "website": "https://www.microsoft.com/zh-cn/microsoft-365",
       "description": "微软办公软件套装",
-      "tags": ["办公", "Word", "Excel", "PPT", "云存储", "协作"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "办公",
+        "Word",
+        "Excel",
+        "PPT",
+        "云存储",
+        "协作"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1450038993"
     },
     {
@@ -1720,8 +2094,18 @@
       ],
       "website": "https://www.icloud.com",
       "description": "Apple 官方云存储服务",
-      "tags": ["云存储", "备份", "Apple", "同步", "隐私保护"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "云存储",
+        "备份",
+        "Apple",
+        "同步",
+        "隐私保护"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": null
     },
     {
@@ -1748,8 +2132,17 @@
       ],
       "website": "https://www.apple.com/apple-arcade/",
       "description": "Apple 游戏订阅服务",
-      "tags": ["游戏", "Apple", "无广告", "家庭共享"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "游戏",
+        "Apple",
+        "无广告",
+        "家庭共享"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": null
     },
     {
@@ -1769,8 +2162,16 @@
       ],
       "website": "https://www.dedao.cn",
       "description": "知识服务APP",
-      "tags": ["知识", "学习", "课程", "音频", "专栏"],
-      "region": ["CN"],
+      "tags": [
+        "知识",
+        "学习",
+        "课程",
+        "音频",
+        "专栏"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "1016323413"
     },
     {
@@ -1797,8 +2198,16 @@
       ],
       "website": "https://www.gotokeep.com",
       "description": "运动健身APP",
-      "tags": ["健身", "运动", "课程", "社区", "跑步"],
-      "region": ["CN"],
+      "tags": [
+        "健身",
+        "运动",
+        "课程",
+        "社区",
+        "跑步"
+      ],
+      "region": [
+        "CN"
+      ],
       "appStoreId": "934637741"
     },
     {
@@ -1832,8 +2241,17 @@
       ],
       "website": "https://www.spotify.com",
       "description": "全球音乐流媒体平台",
-      "tags": ["音乐", "播客", "流媒体", "发现", "社交"],
-      "region": ["US", "Global"],
+      "tags": [
+        "音乐",
+        "播客",
+        "流媒体",
+        "发现",
+        "社交"
+      ],
+      "region": [
+        "US",
+        "Global"
+      ],
       "appStoreId": "324684580"
     },
     {
@@ -1860,9 +2278,178 @@
       ],
       "website": "https://www.notion.so",
       "description": "全能工作空间应用",
-      "tags": ["笔记", "协作", "数据库", "模板", "团队"],
-      "region": ["CN", "US", "Global"],
+      "tags": [
+        "笔记",
+        "协作",
+        "数据库",
+        "模板",
+        "团队"
+      ],
+      "region": [
+        "CN",
+        "US",
+        "Global"
+      ],
       "appStoreId": "1232780281"
+    },
+    {
+      "id": "google-ai-gemini",
+      "name": "Google AI（Gemini）",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/gemini.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 9.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Google AI Plus（2 TB）"
+        },
+        {
+          "price": 19.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Google AI Pro（5 TB）"
+        }
+      ],
+      "website": "https://gemini.google.com/",
+      "description": "Google 的 AI 助手与高级模型订阅，部分套餐同时包含 Google One 存储空间",
+      "tags": [
+        "AI",
+        "Gemini",
+        "智能助手",
+        "Google",
+        "生产力"
+      ],
+      "region": [
+        "US",
+        "Global"
+      ],
+      "appStoreId": "6477489729",
+      "isBundle": false
+    },
+    {
+      "id": "jianying-vip",
+      "name": "剪映会员",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/jianying.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 25,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "剪映会员连续包月"
+        },
+        {
+          "price": 59,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "剪映 SVIP"
+        }
+      ],
+      "website": "https://www.capcut.cn/?lang=zh",
+      "description": "剪映的视频剪辑与 AI 创作高级会员，提供会员素材、模板和创作能力",
+      "tags": [
+        "视频编辑",
+        "AI",
+        "内容创作",
+        "剪映",
+        "短视频"
+      ],
+      "region": [
+        "CN"
+      ],
+      "appStoreId": "1458072671",
+      "isBundle": false
+    },
+    {
+      "id": "qishui-music-vip",
+      "name": "汽水音乐会员",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/qishui-music.png",
+      "category": "music",
+      "commonPrices": [
+        {
+          "price": 8,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "汽水会员"
+        },
+        {
+          "price": 88,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "汽水会员"
+        }
+      ],
+      "website": "https://apps.apple.com/cn/app/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90-%E9%9A%8F%E6%97%B6%E5%90%AC%E5%A5%BD%E6%AD%8C/id1605585211",
+      "description": "抖音出品的音乐流媒体服务，会员提供完整的订阅权益",
+      "tags": [
+        "音乐",
+        "流媒体",
+        "抖音",
+        "个性推荐",
+        "汽水音乐"
+      ],
+      "region": [
+        "CN"
+      ],
+      "appStoreId": "1605585211",
+      "isBundle": false
+    },
+    {
+      "id": "peacock",
+      "name": "Peacock",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/peacock.png",
+      "category": "video",
+      "commonPrices": [
+        {
+          "price": 10.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Premium"
+        },
+        {
+          "price": 16.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Premium Plus"
+        },
+        {
+          "price": 109.99,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Premium"
+        },
+        {
+          "price": 169.99,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Premium Plus"
+        }
+      ],
+      "website": "https://www.peacocktv.com/",
+      "description": "NBCUniversal 旗下美国流媒体服务，提供影视、体育、新闻与直播内容",
+      "tags": [
+        "视频",
+        "流媒体",
+        "影视",
+        "体育",
+        "Peacock"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": "1508186374",
+      "isBundle": false
     }
   ]
 }
