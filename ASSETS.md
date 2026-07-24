@@ -4,6 +4,9 @@
 
 | 文件 | 来源 | 获取日期 | 备注 |
 | --- | --- | --- | --- |
+| `subsicon/kimi.png` | [Kimi App Store 页面](https://apps.apple.com/cn/app/id6474233312) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/glm.png` | [智谱清言 App Store 页面](https://apps.apple.com/cn/app/id6450893458) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/grok.png` | [Grok App Store 页面](https://apps.apple.com/us/app/id6670324846) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
 | `subsicon/dedao.png` | [得到 App Store 页面](https://apps.apple.com/cn/app/id1016323413) | 2026-07-24 | 用于纠正原有错误 App Store 身份；发布前已检查为 512×512 PNG。 |
 | `subsicon/gemini.png` | [Google Gemini App Store 页面](https://apps.apple.com/us/app/google-gemini/id6477489729) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
 | `subsicon/jianying.png` | [剪映 App Store 页面](https://apps.apple.com/cn/app/id1458072671) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |

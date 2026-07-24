@@ -32,6 +32,7 @@ GitHub 是规范数据源；Gitee 镜像中的业务数据应与本仓库一致�
 
 - `id` 是稳定身份，修改 ID 等价于新增另一条订阅。
 - `commonPrices` 第一项是卡片默认展示价格。
+- 目录已使用 `ai` 表示 AI 服务；尚未识别该值的旧客户端会按下一条规则降级。
 - 未知分类会被客户端降级为 `other`。
 - 未知周期会被客户端降级为 `monthly`。
 - `isBundle=true` 时必须包含 `bundledSubscriptions`。
