@@ -9,5 +9,14 @@
 | `subsicon/jianying.png` | [剪映 App Store 页面](https://apps.apple.com/cn/app/id1458072671) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
 | `subsicon/qishui-music.png` | [汽水音乐 App Store 页面](https://apps.apple.com/cn/app/id1605585211) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
 | `subsicon/peacock.png` | [Peacock App Store 页面](https://apps.apple.com/us/app/id1508186374) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/apple-tv.png` | [Apple TV App Store 页面](https://apps.apple.com/us/app/id1174078549) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/hbo-max.png` | [HBO Max App Store 页面](https://apps.apple.com/us/app/id1666653815) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/paramount-plus.png` | [Paramount+ App Store 页面](https://apps.apple.com/us/app/id530168168) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/amazon-prime.png` | [Amazon Prime Video App Store 页面](https://apps.apple.com/us/app/id545519333) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/capcut.png` | [CapCut App Store 页面](https://apps.apple.com/us/app/id1500855883) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/doubao.png` | [豆包 App Store 页面](https://apps.apple.com/cn/app/id6459478672) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/xingtu.png` | [醒图 App Store 页面](https://apps.apple.com/cn/app/id1500526240) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/fanqie-novel.png` | [番茄小说 App Store 页面](https://apps.apple.com/cn/app/id1468454200) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
+| `subsicon/migu-video.png` | [咪咕视频 App Store 页面](https://apps.apple.com/cn/app/id787130974) | 2026-07-24 | 通过 Apple 官方接口获取；发布前已检查为 512×512 PNG。 |
 
 其余图标早于来源记录机制建立，来源仍待逐项补录。在完成核验前，不应据此主张对第三方素材拥有权利。
