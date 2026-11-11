@@ -4,6 +4,9 @@
 
 | 文件 | 来源 | 获取日期 | 备注 |
 | --- | --- | --- | --- |
+| `subsicon/markbuy.png` | [MarkBuy App Store 页面](https://apps.apple.com/cn/app/id6745769884) | 2026-11-10 | Apple 官方接口的 PNG 图标版本；原始文件为 512×512，仅用于服务识别。 |
+| `subsicon/markitem.png` | [MarkItem App Store 页面](https://apps.apple.com/cn/app/id6751253049) | 2026-11-10 | Apple 官方接口的 PNG 图标版本；原始文件为 512×512，仅用于服务识别。 |
+| `subsicon/markmemo.png` | [MarkMemo App Store 页面](https://apps.apple.com/cn/app/id6757456958) | 2026-11-10 | Apple 官方接口的 PNG 图标版本；原始文件为 512×512，仅用于服务识别。 |
 | `subsicon/jimeng.png` | [即梦AI - 抖音旗下AI图片和视频工具 App Store 页面](https://apps.apple.com/cn/app/%E5%8D%B3%E6%A2%A6ai-%E6%8A%96%E9%9F%B3%E6%97%97%E4%B8%8Bai%E5%9B%BE%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%B7%A5%E5%85%B7/id6503676563?uo=4) | 2026-11-10 | Apple 官方接口的 PNG 图标版本；原始文件为 512×512，仅用于服务识别。 |
 | `subsicon/kling.png` | [可灵AI - AI图片&视频创作工具 App Store 页面](https://apps.apple.com/cn/app/%E5%8F%AF%E7%81%B5ai-ai%E5%9B%BE%E7%89%87-%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E5%B7%A5%E5%85%B7/id6670396916?uo=4) | 2026-11-10 | Apple 官方接口的 PNG 图标版本；原始文件为 512×512，仅用于服务识别。 |
 | `subsicon/qianwen.png` | [千问 - 阿里AI助手 App Store 页面](https://apps.apple.com/cn/app/%E5%8D%83%E9%97%AE-%E9%98%BF%E9%87%8Cai%E5%8A%A9%E6%89%8B/id6466733523?uo=4) | 2026-11-10 | Apple 官方接口的 PNG 图标版本；原始文件为 512×512，仅用于服务识别。 |

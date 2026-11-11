@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "lastUpdated": "2026-11-11T06:27:23Z",
+  "version": "1.5",
+  "lastUpdated": "2026-11-11T07:00:23Z",
   "subscriptions": [
     {
       "id": "youtube-premium",
@@ -3769,6 +3769,190 @@
           "appStoreId": null
         }
       ]
+    },
+    {
+      "id": "markbuy",
+      "name": "MarkBuy",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/markbuy.png",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 12,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "高级会员月度订阅（中国大陆 App Store）"
+        },
+        {
+          "price": 28,
+          "currency": "CNY",
+          "billingCycle": "quarterly",
+          "isPermanent": false,
+          "description": "高级会员季度订阅（中国大陆 App Store）"
+        },
+        {
+          "price": 48,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "高级会员年度订阅（中国大陆 App Store）"
+        },
+        {
+          "price": 48,
+          "currency": "CNY",
+          "billingCycle": "custom",
+          "isPermanent": true,
+          "description": "永久高级功能（中国大陆区 App Store，当前限时优惠，一次性购买）"
+        },
+        {
+          "price": 1.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "高级会员月度订阅（美国 App Store）"
+        },
+        {
+          "price": 3.99,
+          "currency": "USD",
+          "billingCycle": "quarterly",
+          "isPermanent": false,
+          "description": "高级会员季度订阅（美国 App Store）"
+        },
+        {
+          "price": 6.99,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "高级会员年度订阅（美国 App Store）"
+        },
+        {
+          "price": 6.99,
+          "currency": "USD",
+          "billingCycle": "custom",
+          "isPermanent": true,
+          "description": "永久高级功能（美国区 App Store，当前限时优惠，一次性购买）"
+        }
+      ],
+      "website": "https://apps.apple.com/us/app/markbuy/id6745769884",
+      "description": "订阅管理、续费提醒与支出统计工具，支持多币种、支付记录和 iCloud 同步",
+      "tags": [
+        "订阅管理",
+        "续费提醒",
+        "支出统计",
+        "多币种",
+        "iCloud同步"
+      ],
+      "region": [
+        "Global"
+      ],
+      "appStoreId": "6745769884",
+      "isBundle": false
+    },
+    {
+      "id": "markitem",
+      "name": "MarkItem",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/markitem.png",
+      "category": "utility",
+      "commonPrices": [
+        {
+          "price": 12,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "月度订阅（中国区 App Store，自动续订）"
+        },
+        {
+          "price": 28,
+          "currency": "CNY",
+          "billingCycle": "quarterly",
+          "isPermanent": false,
+          "description": "季度订阅（中国区 App Store，自动续订）"
+        },
+        {
+          "price": 48,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度订阅（中国区 App Store，自动续订）"
+        },
+        {
+          "price": 48,
+          "currency": "CNY",
+          "billingCycle": "custom",
+          "isPermanent": true,
+          "description": "永久高级功能（中国区 App Store，当前早鸟优惠，一次性购买）"
+        },
+        {
+          "price": 1.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "月度订阅（美国区 App Store，自动续订）"
+        },
+        {
+          "price": 3.99,
+          "currency": "USD",
+          "billingCycle": "quarterly",
+          "isPermanent": false,
+          "description": "季度订阅（美国区 App Store，自动续订）"
+        },
+        {
+          "price": 6.99,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "年度订阅（美国区 App Store，自动续订）"
+        },
+        {
+          "price": 6.99,
+          "currency": "USD",
+          "billingCycle": "custom",
+          "isPermanent": true,
+          "description": "永久高级功能（美国区 App Store，当前早鸟优惠，一次性购买）"
+        }
+      ],
+      "website": "https://apps.apple.com/us/app/markitem/id6751253049",
+      "description": "物品收纳与资产管理应用，支持物品记录、库存管理、到期提醒及 iCloud 同步。价格分别对应中国区与美国区 App Store。",
+      "tags": [
+        "物品管理",
+        "收纳",
+        "库存",
+        "到期提醒",
+        "iCloud"
+      ],
+      "region": [
+        "Global"
+      ],
+      "appStoreId": "6751253049",
+      "isBundle": false
+    },
+    {
+      "id": "markmemo",
+      "name": "MarkMemo（免费）",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/markmemo.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 0,
+          "currency": "CNY",
+          "billingCycle": "custom",
+          "isPermanent": true,
+          "description": "免费下载使用（无自动续费；中国区 App Store）"
+        }
+      ],
+      "website": "https://apps.apple.com/cn/app/markmemo-%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86/id6757456958",
+      "description": "个人记忆管理与智能日记应用，支持文字、照片、语音、网页记录和记忆图谱。当前免费下载使用，非付费买断，无需续费；自行配置的 AI 服务可能由服务商另行收费。",
+      "tags": [
+        "MarkMemo",
+        "日记",
+        "记忆管理",
+        "AI",
+        "免费"
+      ],
+      "region": [
+        "Global"
+      ],
+      "appStoreId": "6757456958"
     }
   ]
 }
