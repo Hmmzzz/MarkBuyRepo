@@ -154,6 +154,7 @@
           "minimum": 0
         },
         "originalPrice": {
+          "description": "用于附带服务的增量节省估算。全包套餐显式填写 0 表示不参与此估算，不代表服务的独立售价为零；省略可能触发旧客户端估算值。",
           "type": [
             "number",
             "null"

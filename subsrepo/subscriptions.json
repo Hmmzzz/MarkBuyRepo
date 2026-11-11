@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "lastUpdated": "2026-07-24T13:47:38Z",
+  "version": "1.4",
+  "lastUpdated": "2026-11-11T06:27:23Z",
   "subscriptions": [
     {
       "id": "youtube-premium",
@@ -80,25 +80,25 @@
       "category": "video",
       "commonPrices": [
         {
-          "price": 11.99,
+          "price": 12.49,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Disney+ Basic（含广告）"
+          "description": "Disney+（含广告，美国网页端）"
         },
         {
-          "price": 18.99,
+          "price": 21.49,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Disney+ Premium（无广告）"
+          "description": "Disney+ Premium（无广告，美国网页端）"
         },
         {
-          "price": 189.99,
+          "price": 214.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Disney+ Premium 年付（无广告）"
+          "description": "Disney+ Premium 年付（无广告，美国网页端）"
         }
       ],
       "website": "https://www.disneyplus.com",
@@ -201,28 +201,42 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Business Starter（年度承诺，按月付）"
+          "description": "Business Starter（年度承诺，按月付，每用户）"
         },
         {
           "price": 14,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Business Standard（年度承诺，按月付）"
+          "description": "Business Standard（年度承诺，按月付，每用户）"
         },
         {
           "price": 8.4,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Business Starter（灵活月付）"
+          "description": "Business Starter（灵活月付，每用户）"
         },
         {
           "price": 16.8,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Business Standard（灵活月付）"
+          "description": "Business Standard（灵活月付，每用户）"
+        },
+        {
+          "price": 84,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Business Starter（年度预付总额，每用户）"
+        },
+        {
+          "price": 168,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Business Standard（年度预付总额，每用户）"
         }
       ],
       "website": "https://workspace.google.com",
@@ -247,18 +261,18 @@
       "category": "utility",
       "commonPrices": [
         {
-          "price": 9.99,
+          "price": 11.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Plus 2TB"
+          "description": "Plus 2TB（月付，美国 App Store）"
         },
         {
-          "price": 16.99,
+          "price": 19.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Family 2TB"
+          "description": "Family 2TB（月付，美国 App Store）"
         }
       ],
       "website": "https://www.dropbox.com",
@@ -288,7 +302,7 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "100GB"
+          "description": "Basic 100GB（美国网页端）"
         },
         {
           "price": 2.99,
@@ -462,6 +476,13 @@
           "billingCycle": "annually",
           "isPermanent": false,
           "description": "大会员年卡（App Store）"
+        },
+        {
+          "price": 45,
+          "currency": "CNY",
+          "billingCycle": "quarterly",
+          "isPermanent": false,
+          "description": "大会员连续包季（中国大陆 App Store）"
         }
       ],
       "website": "https://www.bilibili.com",
@@ -489,7 +510,14 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "VIP 连续包月（App Store）"
+          "description": "黄金 VIP 连续包月（中国大陆 App Store）"
+        },
+        {
+          "price": 238,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "黄金 VIP 连续包年（中国大陆 App Store）"
         }
       ],
       "website": "https://www.youku.com",
@@ -517,42 +545,49 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Go"
+          "description": "Go（美元网页订阅）"
         },
         {
           "price": 20,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Plus"
+          "description": "Plus（美元网页订阅）"
         },
         {
           "price": 100,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Pro 5x"
+          "description": "Pro 100 美元档（网页订阅）"
         },
         {
           "price": 200,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Pro 20x"
+          "description": "Pro 200 美元档（网页订阅）"
+        },
+        {
+          "price": 500,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Pro 500 美元档（网页订阅）"
         },
         {
           "price": 25,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Business（按月付费，每用户）"
+          "description": "Business（月付，每用户，至少2人）"
         },
         {
           "price": 240,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Business（年付，每用户）"
+          "description": "Business（年付总额，每用户，至少2人）"
         }
       ],
       "website": "https://chatgpt.com/pricing",
@@ -581,7 +616,7 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "个人版"
+          "description": "Pro（每用户）"
         },
         {
           "price": 39,
@@ -669,56 +704,56 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Pro"
+          "description": "Pro（美国网页端）"
         },
         {
           "price": 200,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Pro 年付"
+          "description": "Pro 年付（美国网页端）"
         },
         {
           "price": 100,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Max 5x"
+          "description": "Max（美国网页端）"
         },
         {
           "price": 200,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Max 20x"
+          "description": "Ultra（美国网页端）"
         },
         {
           "price": 25,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Team Standard（按月付，每席位）"
+          "description": "Team Standard（月付，每席位，至少2人）"
         },
         {
           "price": 240,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Team Standard（年付，每席位）"
+          "description": "Team Standard（年付总额，每席位，至少2人）"
         },
         {
           "price": 125,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Team Premium（按月付，每席位）"
+          "description": "Team Premium（月付，每席位，至少2人）"
         },
         {
           "price": 1200,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Team Premium（年付，每席位）"
+          "description": "Team Premium（年付总额，每席位，至少2人）"
         }
       ],
       "website": "https://claude.ai",
@@ -742,18 +777,25 @@
       "category": "entertainment",
       "commonPrices": [
         {
-          "price": 18,
+          "price": 20,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "VIP会员"
+          "description": "VIP 连续包月（中国大陆 App Store）"
         },
         {
-          "price": 188,
+          "price": 198,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "VIP年费"
+          "description": "VIP 连续包年（中国大陆 App Store）"
+        },
+        {
+          "price": 58,
+          "currency": "CNY",
+          "billingCycle": "quarterly",
+          "isPermanent": false,
+          "description": "VIP 连续包季（中国大陆 App Store）"
         }
       ],
       "website": "https://www.ximalaya.com",
@@ -777,18 +819,18 @@
       "category": "lifestyle",
       "commonPrices": [
         {
-          "price": 15,
+          "price": 12,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "VIP"
+          "description": "微博会员连续包月（中国大陆 App Store）"
         },
         {
           "price": 118,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "VIP年费"
+          "description": "微博会员连续包年（中国大陆 App Store）"
         },
         {
           "price": 30,
@@ -833,11 +875,11 @@
       "category": "productivity",
       "commonPrices": [
         {
-          "price": 25,
+          "price": 88,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "专业版"
+          "description": "专业版连续包月（中国大陆 App Store）"
         },
         {
           "price": 388,
@@ -845,6 +887,13 @@
           "billingCycle": "annually",
           "isPermanent": false,
           "description": "企业版"
+        },
+        {
+          "price": 98,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "专业版单月购买（中国大陆 App Store）"
         }
       ],
       "website": "https://meeting.tencent.com",
@@ -896,11 +945,18 @@
           "description": "超级会员单月购买（App Store）"
         },
         {
-          "price": 28,
+          "price": 32,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "大会员连续包月（App Store）"
+          "description": "大会员连续包月（中国大陆 App Store）"
+        },
+        {
+          "price": 79,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "WPS 会员连续包年（中国大陆 App Store）"
         }
       ],
       "website": "https://www.wps.cn",
@@ -973,18 +1029,18 @@
       "category": "utility",
       "commonPrices": [
         {
-          "price": 15,
+          "price": 58,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "VIP会员"
+          "description": "VIP 1个月（中国大陆官网）"
         },
         {
-          "price": 168,
+          "price": 500,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "年度VIP"
+          "description": "VIP 12个月（中国大陆官网）"
         }
       ],
       "website": "https://115.com",
@@ -1082,46 +1138,46 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Basic（美国网页端）"
+          "description": "Basic（美国网页端，现有订阅者方案）"
         },
         {
           "price": 32,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Basic 年付（美国网页端）"
+          "description": "Basic 年付（美国网页端，现有订阅者方案）"
         },
         {
           "price": 8,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Premium（美国网页端）"
+          "description": "Premium（美国网页端，现有订阅者方案）"
         },
         {
           "price": 84,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Premium 年付（美国网页端）"
+          "description": "Premium 年付（美国网页端，现有订阅者方案）"
         },
         {
           "price": 40,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Premium+（美国网页端）"
+          "description": "Premium+（美国网页端，现有订阅者方案）"
         },
         {
           "price": 395,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Premium+ 年付（美国网页端）"
+          "description": "Premium+ 年付（美国网页端，现有订阅者方案）"
         }
       ],
       "website": "https://twitter.com/i/premium_sign_up",
-      "description": "X平台高级会员服务",
+      "description": "X 平台高级会员服务；所列为现有订阅者保留的 Premium 方案，新订阅方案请以官网为准",
       "tags": [
         "社交",
         "微博",
@@ -1183,14 +1239,14 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "VIP会员"
+          "description": "豪华 VIP 连续包月（中国大陆 App Store）"
         },
         {
           "price": 158,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "VIP 年付（App Store）"
+          "description": "豪华 VIP 连续包年（中国大陆 App Store）"
         },
         {
           "price": 30,
@@ -1225,14 +1281,14 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "VIP会员"
+          "description": "豪华 VIP 连续包月（中国大陆 App Store）"
         },
         {
-          "price": 138,
+          "price": 158,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "年度VIP"
+          "description": "豪华 VIP 连续包年（中国大陆 App Store）"
         }
       ],
       "website": "https://www.kuwo.cn",
@@ -1256,18 +1312,18 @@
       "category": "music",
       "commonPrices": [
         {
-          "price": 15,
+          "price": 10,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "会员版"
+          "description": "白金会员连续包月（中国大陆 App Store）"
         },
         {
-          "price": 150,
+          "price": 69,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "年度会员"
+          "description": "白金会员12个月（中国大陆 App Store）"
         }
       ],
       "website": "https://music.migu.cn",
@@ -1577,28 +1633,28 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "QQ会员"
+          "description": "QQ会员连续包月（中国大陆 App Store）"
         },
         {
           "price": 118,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "年费QQ会员"
+          "description": "QQ会员连续包年（中国大陆 App Store）"
         },
         {
-          "price": 25,
+          "price": 19,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "超级会员"
+          "description": "超级会员连续包月（中国大陆 App Store）"
         },
         {
           "price": 238,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "年费超级会员"
+          "description": "超级会员连续包年（中国大陆 App Store）"
         }
       ],
       "website": "https://vip.qq.com",
@@ -1661,21 +1717,21 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Standard with ads"
+          "description": "Standard with ads（美国网页端）"
         },
         {
           "price": 19.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Standard"
+          "description": "Standard（美国网页端）"
         },
         {
           "price": 26.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Premium"
+          "description": "Premium（美国网页端）"
         }
       ],
       "website": "https://www.netflix.com/",
@@ -1969,28 +2025,28 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "50GB"
+          "description": "50GB（中国大陆）"
         },
         {
           "price": 21,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "200GB"
+          "description": "200GB（中国大陆）"
         },
         {
           "price": 68,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "2TB"
+          "description": "2TB（中国大陆）"
         },
         {
           "price": 0.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "50GB"
+          "description": "50GB（美国）"
         }
       ],
       "website": "https://www.icloud.com",
@@ -2082,18 +2138,25 @@
       "isBundle": false,
       "commonPrices": [
         {
-          "price": 25,
+          "price": 19,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "会员版"
+          "description": "Keep会员连续包月（中国大陆 App Store）"
         },
         {
-          "price": 138,
+          "price": 218,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "年度会员"
+          "description": "Keep会员连续包年（中国大陆 App Store）"
+        },
+        {
+          "price": 58,
+          "currency": "CNY",
+          "billingCycle": "quarterly",
+          "isPermanent": false,
+          "description": "Keep会员连续包季（中国大陆 App Store）"
         }
       ],
       "website": "https://www.gotokeep.com",
@@ -2108,7 +2171,7 @@
       "region": [
         "CN"
       ],
-      "appStoreId": null
+      "appStoreId": "952694580"
     },
     {
       "id": "spotify",
@@ -2169,18 +2232,18 @@
       "isBundle": false,
       "commonPrices": [
         {
-          "price": 8,
+          "price": 12,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Personal Pro"
+          "description": "Plus（月付，每成员，美元网页订阅）"
         },
         {
-          "price": 80,
+          "price": 120,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Personal Pro年费"
+          "description": "Plus（年付总额，每成员，美元网页订阅）"
         }
       ],
       "website": "https://www.notion.so",
@@ -2206,18 +2269,32 @@
       "category": "ai",
       "commonPrices": [
         {
-          "price": 9.99,
+          "price": 4.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Google AI Plus（2 TB）"
+          "description": "Google AI Plus（400 GB，美国网页端）"
         },
         {
           "price": 19.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Google AI Pro（5 TB）"
+          "description": "Google AI Pro（5 TB，美国网页端）"
+        },
+        {
+          "price": 99.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Google AI Ultra 99.99 美元档（美国网页端）"
+        },
+        {
+          "price": 199.99,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Google AI Ultra 199.99 美元档（美国网页端）"
         }
       ],
       "website": "https://gemini.google.com/",
@@ -2247,7 +2324,7 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "剪映会员连续包月"
+          "description": "剪映会员连续包月（中国大陆 App Store）"
         },
         {
           "price": 59,
@@ -2283,14 +2360,14 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "汽水会员"
+          "description": "汽水会员连续包月（中国大陆 App Store）"
         },
         {
           "price": 88,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "汽水会员"
+          "description": "汽水会员连续包年（中国大陆 App Store）"
         }
       ],
       "website": "https://apps.apple.com/cn/app/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90-%E9%9A%8F%E6%97%B6%E5%90%AC%E5%A5%BD%E6%AD%8C/id1605585211",
@@ -2315,32 +2392,32 @@
       "category": "video",
       "commonPrices": [
         {
-          "price": 10.99,
+          "price": 12.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Premium"
+          "description": "Premium（美国网页端）"
         },
         {
-          "price": 16.99,
+          "price": 19.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Premium Plus"
+          "description": "Premium Plus（美国网页端）"
         },
         {
-          "price": 109.99,
+          "price": 129.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Premium"
+          "description": "Premium 年付（美国网页端）"
         },
         {
-          "price": 169.99,
+          "price": 199.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Premium Plus"
+          "description": "Premium Plus 年付（美国网页端）"
         }
       ],
       "website": "https://www.peacocktv.com/",
@@ -2365,11 +2442,11 @@
       "category": "video",
       "commonPrices": [
         {
-          "price": 12.99,
+          "price": 14.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Apple TV"
+          "description": "Apple TV（美国）"
         }
       ],
       "website": "https://www.apple.com/apple-tv/",
@@ -2399,42 +2476,42 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Basic with Ads"
+          "description": "Basic with Ads（美国网页端）"
         },
         {
           "price": 18.49,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Standard"
+          "description": "Standard（美国网页端）"
         },
         {
           "price": 22.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Premium"
+          "description": "Premium（美国网页端）"
         },
         {
           "price": 109.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Basic with Ads"
+          "description": "Basic with Ads 年付（美国网页端）"
         },
         {
           "price": 184.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Standard"
+          "description": "Standard 年付（美国网页端）"
         },
         {
           "price": 229.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Premium"
+          "description": "Premium 年付（美国网页端）"
         }
       ],
       "website": "https://www.hbomax.com/",
@@ -2464,28 +2541,28 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Essential"
+          "description": "Essential（美国网页端）"
         },
         {
           "price": 13.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Premium"
+          "description": "Premium（美国网页端）"
         },
         {
           "price": 89.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Essential"
+          "description": "Essential 年付（美国网页端）"
         },
         {
           "price": 139.99,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Premium"
+          "description": "Premium 年付（美国网页端）"
         }
       ],
       "website": "https://www.paramountplus.com/",
@@ -2514,14 +2591,14 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Prime"
+          "description": "Prime（美国网页端）"
         },
         {
           "price": 139,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Prime"
+          "description": "Prime 年付（美国网页端）"
         },
         {
           "price": 8.99,
@@ -2557,14 +2634,14 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Standard"
+          "description": "Standard（美国 App Store）"
         },
         {
           "price": 19.99,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Pro"
+          "description": "Pro（美国 App Store）"
         }
       ],
       "website": "https://www.capcut.com/",
@@ -2594,42 +2671,42 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "标准套餐"
+          "description": "标准版连续包月（中国大陆 App Store）"
         },
         {
           "price": 688,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "标准套餐"
+          "description": "标准版连续包年（中国大陆 App Store）"
         },
         {
           "price": 200,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "加强套餐"
+          "description": "加强版连续包月（中国大陆 App Store）"
         },
         {
           "price": 2048,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "加强套餐"
+          "description": "加强版连续包年（中国大陆 App Store）"
         },
         {
           "price": 500,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "高级套餐"
+          "description": "专业版连续包月（中国大陆 App Store）"
         },
         {
           "price": 5088,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "高级套餐"
+          "description": "专业版连续包年（中国大陆 App Store）"
         }
       ],
       "website": "https://www.doubao.com/",
@@ -2658,14 +2735,14 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "醒图 VIP"
+          "description": "醒图 VIP 连续包月（中国大陆 App Store）"
         },
         {
           "price": 28,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "醒图 SVIP"
+          "description": "醒图 SVIP 连续包月（中国大陆 App Store）"
         }
       ],
       "website": "https://apps.apple.com/cn/app/id1500526240",
@@ -2694,7 +2771,7 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "会员连续包月"
+          "description": "会员连续包月（中国大陆 App Store）"
         },
         {
           "price": 60,
@@ -2730,7 +2807,7 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "钻石会员连续包月"
+          "description": "钻石会员连续包月（中国大陆 App Store）"
         }
       ],
       "website": "https://www.miguvideo.com/",
@@ -2759,53 +2836,74 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Andante"
+          "description": "Go连续包月（中国大陆网页端）"
         },
         {
           "price": 468,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Andante 年付"
+          "description": "Go连续包年（中国大陆网页端）"
         },
         {
           "price": 99,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Moderato"
+          "description": "Plus连续包月（中国大陆网页端）"
         },
         {
           "price": 948,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Moderato 年付"
+          "description": "Plus连续包年（中国大陆网页端）"
         },
         {
           "price": 199,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Allegretto"
+          "description": "Pro连续包月（中国大陆网页端）"
         },
         {
-          "price": 1948,
+          "price": 1908,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "Allegretto 年付"
+          "description": "Pro连续包年（中国大陆网页端）"
         },
         {
           "price": 699,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "Allegro"
+          "description": "Max连续包月（中国大陆网页端）"
+        },
+        {
+          "price": 6708,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Max连续包年（中国大陆网页端）"
+        },
+        {
+          "price": 1399,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Ultra连续包月（中国大陆网页端）"
+        },
+        {
+          "price": 13428,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Ultra连续包年（中国大陆网页端）"
         }
       ],
       "website": "https://www.kimi.com/",
-      "description": "月之暗面推出的 AI 助手与智能体会员服务",
+      "description": "月之暗面推出的 AI 助手与智能体会员服务；目录列出当前新会员套餐，旧套餐用户可按原规则继续续费",
       "tags": [
         "AI",
         "Kimi",
@@ -2830,28 +2928,28 @@
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "VIP 连续包月"
+          "description": "VIP 连续包月（中国大陆 App Store）"
         },
         {
           "price": 219,
           "currency": "CNY",
           "billingCycle": "quarterly",
           "isPermanent": false,
-          "description": "VIP 连续包季"
+          "description": "VIP 连续包季（中国大陆 App Store）"
         },
         {
           "price": 859,
           "currency": "CNY",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "VIP 连续包年"
+          "description": "VIP 连续包年（中国大陆 App Store）"
         },
         {
           "price": 229,
           "currency": "CNY",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "SVIP 连续包月"
+          "description": "SVIP 连续包月（中国大陆 App Store）"
         }
       ],
       "website": "https://chatglm.cn/",
@@ -2880,39 +2978,39 @@
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "SuperGrok Lite"
+          "description": "SuperGrok Lite（存量套餐）"
         },
         {
           "price": 100,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "SuperGrok Lite 年付"
+          "description": "SuperGrok Lite 年付（存量套餐）"
         },
         {
           "price": 30,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "SuperGrok"
+          "description": "SuperGrok（存量套餐）"
         },
         {
           "price": 300,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
-          "description": "SuperGrok 年付"
+          "description": "SuperGrok 年付（存量套餐）"
         },
         {
           "price": 300,
           "currency": "USD",
           "billingCycle": "monthly",
           "isPermanent": false,
-          "description": "SuperGrok Heavy"
+          "description": "SuperGrok Heavy（存量套餐）"
         }
       ],
       "website": "https://grok.com/",
-      "description": "xAI 推出的实时搜索、推理与创作 AI 助手",
+      "description": "Grok AI 助手；SuperGrok 为存量订阅，新自助购买用户使用 The X Subscription，旧套餐是否可续费以账户为准",
       "tags": [
         "AI",
         "Grok",
@@ -2926,6 +3024,751 @@
       ],
       "appStoreId": "6670324846",
       "isBundle": false
+    },
+    {
+      "id": "jimeng-ai",
+      "name": "即梦AI",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/jimeng.png",
+      "category": "ai",
+      "commonPrices": [
+        {
+          "price": 69,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "基础会员连续包月（中国大陆 App Store）"
+        },
+        {
+          "price": 659,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "基础会员连续包年（中国大陆 App Store）"
+        }
+      ],
+      "website": "https://jimeng.jianying.com/",
+      "description": "即梦AI的图片与视频生成会员，提供生成积分、视频延长及作品去水印等权益",
+      "tags": [
+        "AI",
+        "图片生成",
+        "视频生成",
+        "即梦",
+        "内容创作"
+      ],
+      "region": [
+        "CN"
+      ],
+      "appStoreId": "6503676563",
+      "isBundle": false
+    },
+    {
+      "id": "kling-ai",
+      "name": "可灵AI",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/kling.png",
+      "category": "ai",
+      "commonPrices": [
+        {
+          "price": 66,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "黄金会员连续包月（中国大陆 App Store）"
+        },
+        {
+          "price": 268,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "铂金会员连续包月（中国大陆 App Store）"
+        }
+      ],
+      "website": "https://klingai.kuaishou.com/",
+      "description": "可灵AI的图片与视频创作会员，支持文字或图片生成视频及创意编辑",
+      "tags": [
+        "AI",
+        "视频生成",
+        "图片生成",
+        "可灵",
+        "快手"
+      ],
+      "region": [
+        "CN"
+      ],
+      "appStoreId": "6670396916",
+      "isBundle": false
+    },
+    {
+      "id": "qianwen-membership",
+      "name": "千问",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/qianwen.png",
+      "category": "ai",
+      "commonPrices": [
+        {
+          "price": 19,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "工作助理高级套餐连续包月（中国大陆 App Store）"
+        },
+        {
+          "price": 200,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "工作助理高级套餐连续包年（中国大陆 App Store）"
+        },
+        {
+          "price": 49,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "工作助理精英套餐连续包月（中国大陆 App Store）"
+        },
+        {
+          "price": 128,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "工作助理旗舰套餐连续包月（中国大陆 App Store）"
+        }
+      ],
+      "website": "https://www.qianwen.com/",
+      "description": "阿里千问的工作助理订阅，面向文档、演示、表格与复杂工作任务",
+      "tags": [
+        "AI",
+        "千问",
+        "阿里",
+        "工作助理",
+        "文档"
+      ],
+      "region": [
+        "CN"
+      ],
+      "appStoreId": "6466733523",
+      "isBundle": false
+    },
+    {
+      "id": "dida-premium",
+      "name": "滴答清单",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/dida.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 16,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "高级会员连续包月（中国大陆 App Store）"
+        },
+        {
+          "price": 168,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "高级会员连续包年（中国大陆 App Store）"
+        }
+      ],
+      "website": "https://www.dida365.com/",
+      "description": "滴答清单的高级会员，提供日历、任务规划、提醒与专注管理等进阶功能",
+      "tags": [
+        "待办",
+        "任务管理",
+        "日历",
+        "番茄钟",
+        "效率"
+      ],
+      "region": [
+        "CN"
+      ],
+      "appStoreId": "626144601",
+      "isBundle": false
+    },
+    {
+      "id": "flomo-membership",
+      "name": "flomo 浮墨笔记",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/flomo.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 15,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "PRO 月度会员（中国大陆 App Store）"
+        },
+        {
+          "price": 99,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "PRO 年度会员（中国大陆 App Store）"
+        },
+        {
+          "price": 39,
+          "currency": "CNY",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "MAX 月度会员（中国大陆 App Store）"
+        },
+        {
+          "price": 299,
+          "currency": "CNY",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "MAX 年度会员（中国大陆 App Store）"
+        }
+      ],
+      "website": "https://flomoapp.com/",
+      "description": "flomo的卡片笔记会员，提供笔记回顾、AI洞察与知识整理功能；MAX增加Agent及AI记忆能力",
+      "tags": [
+        "笔记",
+        "知识管理",
+        "AI",
+        "卡片笔记",
+        "回顾"
+      ],
+      "region": [
+        "CN"
+      ],
+      "appStoreId": "1552314395",
+      "isBundle": false
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/perplexity.png",
+      "category": "ai",
+      "commonPrices": [
+        {
+          "price": 20,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Pro 月付（美国网页端）"
+        },
+        {
+          "price": 200,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Pro 年付（美国网页端）"
+        }
+      ],
+      "website": "https://www.perplexity.ai",
+      "description": "提供来源引用的 AI 搜索与研究助手",
+      "tags": [
+        "AI搜索",
+        "深度研究",
+        "来源引用",
+        "文件分析"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": "1668000334"
+    },
+    {
+      "id": "todoist",
+      "name": "Todoist",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/todoist.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 7,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Pro 月付（美国网页端）"
+        },
+        {
+          "price": 60,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Pro 年付（美国网页端）"
+        },
+        {
+          "price": 10,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Business 月付（美国网页端，每用户，税前）"
+        },
+        {
+          "price": 96,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Business 年付（美国网页端，每用户，税前）"
+        }
+      ],
+      "website": "https://www.todoist.com",
+      "description": "跨平台任务清单、日历规划与团队协作工具",
+      "tags": [
+        "待办事项",
+        "任务管理",
+        "日历",
+        "团队协作"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": "572688855"
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/figma.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 20,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Professional Full 席位月付（美国网页端，每用户，税前）"
+        },
+        {
+          "price": 192,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Professional Full 席位年付（美国网页端，每用户，税前）"
+        }
+      ],
+      "website": "https://www.figma.com",
+      "description": "用于界面设计、原型制作和团队协作的设计平台",
+      "tags": [
+        "设计",
+        "原型",
+        "白板",
+        "团队协作"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": "1152747299"
+    },
+    {
+      "id": "raycast",
+      "name": "Raycast",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/raycast.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 10,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Pro 月付（美国网页端）"
+        },
+        {
+          "price": 96,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Pro 年付（美国网页端）"
+        },
+        {
+          "price": 20,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Pro+ 月付（美国网页端）"
+        },
+        {
+          "price": 192,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Pro+ 年付（美国网页端）"
+        },
+        {
+          "price": 50,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Max 月付（美国网页端）"
+        },
+        {
+          "price": 480,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Max 年付（美国网页端）"
+        }
+      ],
+      "website": "https://www.raycast.com",
+      "description": "整合应用启动、快捷操作、笔记和 AI 助手的跨平台效率工具",
+      "tags": [
+        "快捷操作",
+        "AI助手",
+        "笔记",
+        "云同步"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": "6503428327"
+    },
+    {
+      "id": "readwise-reader",
+      "name": "Readwise Reader",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/readwise-reader.png",
+      "category": "productivity",
+      "commonPrices": [
+        {
+          "price": 95.88,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "Reader 单应用年付（美国网页端，不含 Highlights）"
+        }
+      ],
+      "website": "https://readwise.io/read",
+      "description": "统一收藏和阅读网页、RSS、PDF 与 EPUB 的稍后阅读工具",
+      "tags": [
+        "稍后阅读",
+        "RSS",
+        "PDF",
+        "高亮笔记",
+        "语音朗读"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": "1567599761"
+    },
+    {
+      "id": "apple-one-individual-us",
+      "name": "Apple One 个人版（美国）",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/apple-one.png",
+      "category": "entertainment",
+      "commonPrices": [
+        {
+          "price": 21.95,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "个人版（美国 Apple 官方，按月付费）"
+        }
+      ],
+      "website": "https://www.apple.com/apple-one/",
+      "description": "美国区 Apple One 个人版，包含 4 项服务及 50GB iCloud+。Apple Music 仅限个人；Apple TV、Apple Arcade 与 iCloud+ 可家庭共享。",
+      "tags": [
+        "Apple",
+        "Apple One",
+        "复合订阅",
+        "50GB",
+        "美国"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": null,
+      "isBundle": true,
+      "bundledSubscriptions": [
+        {
+          "name": "Apple Music（个人）",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/applemusic.png",
+          "category": "music",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。此档 Apple Music 不支持家庭共享。",
+          "website": "https://www.apple.com/apple-music/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "Apple TV",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/apple-tv.png",
+          "category": "video",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-tv/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "Apple Arcade",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/applearcade.png",
+          "category": "gaming",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-arcade/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "iCloud+ 50GB",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/icloud.png",
+          "category": "utility",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。总计 50GB 共享储存空间，并非每位成员各享此容量。",
+          "website": "https://www.apple.com/icloud/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        }
+      ]
+    },
+    {
+      "id": "apple-one-family-us",
+      "name": "Apple One 家庭版（美国）",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/apple-one.png",
+      "category": "entertainment",
+      "commonPrices": [
+        {
+          "price": 27.95,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "家庭版（美国 Apple 官方，按月付费）"
+        }
+      ],
+      "website": "https://www.apple.com/apple-one/",
+      "description": "美国区 Apple One 家庭版，包含 4 项服务及 200GB iCloud+。启用家庭共享后可与最多另外 5 位家庭成员共享；储存空间为家庭共用。",
+      "tags": [
+        "Apple",
+        "Apple One",
+        "复合订阅",
+        "200GB",
+        "美国"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": null,
+      "isBundle": true,
+      "bundledSubscriptions": [
+        {
+          "name": "Apple Music（家庭）",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/applemusic.png",
+          "category": "music",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-music/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "Apple TV",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/apple-tv.png",
+          "category": "video",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-tv/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "Apple Arcade",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/applearcade.png",
+          "category": "gaming",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-arcade/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "iCloud+ 200GB",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/icloud.png",
+          "category": "utility",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。总计 200GB 共享储存空间，并非每位成员各享此容量。",
+          "website": "https://www.apple.com/icloud/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        }
+      ]
+    },
+    {
+      "id": "apple-one-premier-us",
+      "name": "Apple One Premier（美国）",
+      "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/apple-one.png",
+      "category": "entertainment",
+      "commonPrices": [
+        {
+          "price": 39.95,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "Premier（美国 Apple 官方，按月付费）"
+        }
+      ],
+      "website": "https://www.apple.com/apple-one/",
+      "description": "美国区 Apple One Premier，包含 6 项服务及 2TB iCloud+。启用家庭共享后可与最多另外 5 位家庭成员共享；储存空间为家庭共用。",
+      "tags": [
+        "Apple",
+        "Apple One",
+        "复合订阅",
+        "2TB",
+        "美国"
+      ],
+      "region": [
+        "US"
+      ],
+      "appStoreId": null,
+      "isBundle": true,
+      "bundledSubscriptions": [
+        {
+          "name": "Apple Music（家庭）",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/applemusic.png",
+          "category": "music",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-music/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "Apple TV",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/apple-tv.png",
+          "category": "video",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-tv/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "Apple Arcade",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/applearcade.png",
+          "category": "gaming",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-arcade/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "iCloud+ 2TB",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/icloud.png",
+          "category": "utility",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。总计 2TB 共享储存空间，并非每位成员各享此容量。",
+          "website": "https://www.apple.com/icloud/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "Apple Fitness+",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/apple-fitness.png",
+          "category": "lifestyle",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-fitness-plus/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        },
+        {
+          "name": "Apple News+",
+          "icon": "https://raw.githubusercontent.com/Hmmzzz/MarkBuyRepo/main/subsicon/apple-news.png",
+          "category": "news",
+          "price": 0,
+          "originalPrice": 0,
+          "currency": "USD",
+          "billingCycle": "monthly",
+          "isPermanent": false,
+          "description": "套餐内含；不单独扣费，费用由 Apple One 主订阅统一记录。",
+          "website": "https://www.apple.com/apple-news/",
+          "tags": [
+            "Apple One",
+            "套餐内含"
+          ],
+          "appStoreId": null
+        }
+      ]
     }
   ]
 }
